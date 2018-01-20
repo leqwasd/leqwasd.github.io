@@ -1,0 +1,2984 @@
+{
+    "gyms": [
+        {
+            "enabled": true,
+            "gym_id": "85d9731f5ee3443a9eec82c4447946cf.16",
+            "gym_name": "Rigas Rajons",
+            "gym_points": 2968,
+            "team_id": 2,
+            "gym_inid": "5875faa8baf3436edee9f7fd",
+            "longitude": 56.952833,
+            "latitude": 23.998133,
+            "location": [
+                56.952833,
+                23.998133
+            ],
+            "inside": [
+                {
+                    "trainer_name": "juliteee",
+                    "pokemon_id": 242,
+                    "cp": 3189
+                },
+                {
+                    "trainer_name": "Jur4ixxx",
+                    "pokemon_id": 143,
+                    "cp": 3333
+                },
+                {
+                    "trainer_name": "Laacens",
+                    "pokemon_id": 99,
+                    "cp": 2102
+                },
+                {
+                    "trainer_name": "QuietMen",
+                    "pokemon_id": 122,
+                    "cp": 1744
+                },
+                {
+                    "trainer_name": "gibikus",
+                    "pokemon_id": 233,
+                    "cp": 2126
+                },
+                {
+                    "trainer_name": "OtherGuyBye",
+                    "pokemon_id": 297,
+                    "cp": 2343
+                }
+            ],
+            "url": "http://lh3.ggpht.com/LXzuJAx6RtmTGbljBnPqNzGikA2gZQKKHwAKs8GTCe0aRuWilElfgh3Tm63tN6kAAyIFD3akuplfF0w0BITr",
+            "lastseen": "2018-01-14T06:58:02.146Z"
+        },
+        {
+            "enabled": true,
+            "gym_id": "9821229a3f1b4675b2cfb10d57c1af10.16",
+            "gym_name": "Cuts",
+            "gym_points": 1569,
+            "team_id": 3,
+            "gym_inid": "59484dad4710440d9a8fe9fa",
+            "longitude": 56.952462,
+            "latitude": 24.001368,
+            "location": [
+                56.952462,
+                24.001368
+            ],
+            "inside": [
+                {}
+            ],
+            "url": "http: //lh3.googleusercontent.com/98MNnTXSplSgPnnr_p2UfHQ5tfEjw8pwDOIaYNIhcgbDwGvOwiv_zeOKnd9C2JndSSoqrbQ9rkjBvmobK25j3A",
+            "lastseen": "2018-01-14T13:08:44.380Z"
+        },
+        {
+            "enabled": true,
+            "gym_id": "f773cf0d35794d85b5c77522dfad8252.16",
+            "gym_name": "Imanta Train Station",
+            "gym_points": 5178,
+            "team_id": 2,
+            "gym_inid": "5875fad3baf3436edee9fa36",
+            "longitude": 56.950205,
+            "latitude": 24.000194,
+            "location": [
+                56.950205,
+                24.000194
+            ],
+            "inside": [
+                {
+                    "trainer_name": "juliteee",
+                    "pokemon_id": 143,
+                    "cp": 2993
+                },
+                {
+                    "trainer_name": "Jur4ixxx",
+                    "pokemon_id": 242,
+                    "cp": 3107
+                },
+                {
+                    "trainer_name": "Laacens",
+                    "pokemon_id": 341,
+                    "cp": 559
+                },
+                {
+                    "trainer_name": "gibikus",
+                    "pokemon_id": 297,
+                    "cp": 2496
+                }
+            ],
+            "url": "http://lh3.googleusercontent.com/6iN1P43JOcsX7yWvNjNsYJKtztmCN1JNTh79a3kiLMIp-Eah7221R86sx20SgM2jgPe7o5tFiMgqZkbQmkJm",
+            "lastseen": "2018-01-13T13:18:10.561Z"
+        },
+        {
+            "enabled": true,
+            "gym_id": "75734d930bd8478a8b882f343c6b4179.16",
+            "gym_name": "Pasta nodaļa 69",
+            "gym_points": 2778,
+            "team_id": 3,
+            "gym_inid": "5875faa86bdb256ed96e235c",
+            "longitude": 56.96288,
+            "latitude": 24.002639,
+            "location": [
+                56.96288,
+                24.002639
+            ],
+            "inside": [
+                {
+                    "trainer_name": "Inese4",
+                    "pokemon_id": 260,
+                    "cp": 2127
+                },
+                {
+                    "trainer_name": "elliapchxi",
+                    "pokemon_id": 154,
+                    "cp": 1257
+                }
+            ],
+            "url": "http://lh4.ggpht.com/Aji4xbOJFLShl45D5wkeX-T-0wAkaiHaMkn6EvckOV9P9XRuOR-3OdHEHeJqhPlLGUKxewbAI7TX8LePQd5n",
+            "lastseen": "2018-01-13T13:18:25.061Z"
+        },
+        {
+            "enabled": true,
+            "gym_id": "cfb8188ce629428690b71cdb9cdc3f58.16",
+            "gym_name": "Crayzy Cat",
+            "gym_points": 1195,
+            "team_id": 2,
+            "gym_inid": "58905a37a00565671ba1c346",
+            "longitude": 56.946664,
+            "latitude": 24.001607,
+            "location": [
+                56.946664,
+                24.001607
+            ],
+            "inside": [
+                {
+                    "trainer_name": "QuietMen",
+                    "pokemon_id": 142,
+                    "cp": 1637
+                }
+            ],
+            "url": "http://lh4.ggpht.com/fWsb-uj4B3dAuH4aQUdYY6OVg6c4Czk_17h43CIh2sQuVwozx6ZJG5Kelux8AQ2M3B6Ec30V1lrHUIpFPLM",
+            "lastseen": "2018-01-13T13:18:10.556Z"
+        },
+        {
+            "enabled": true,
+            "gym_id": "6533b2edff5a4b2bab94a063396fbea2.16",
+            "gym_name": "Child Train. ",
+            "gym_points": 1920,
+            "team_id": 2,
+            "gym_inid": "586e6a4d77fc361393c201a3",
+            "longitude": 56.956436,
+            "latitude": 24.014584,
+            "location": [
+                56.956436,
+                24.014584
+            ],
+            "inside": [
+                {
+                    "trainer_name": "Jur4ixxx",
+                    "pokemon_id": 113,
+                    "cp": 908
+                },
+                {
+                    "trainer_name": "Laacens",
+                    "pokemon_id": 143,
+                    "cp": 1847
+                },
+                {
+                    "trainer_name": "juliteee",
+                    "pokemon_id": 112,
+                    "cp": 2847
+                },
+                {
+                    "trainer_name": "egobosss",
+                    "pokemon_id": 17,
+                    "cp": 553
+                }
+            ],
+            "url": "http://lh3.googleusercontent.com/fVPLwRNJ9KJsFoTXxcLNIi1SmHc7EoZQhaSLz_DtafHJNXl2KqE50_cEpRCrCADkczqlvqwohpvvTcXniyfUzw",
+            "lastseen": "2018-01-14T13:08:44.437Z"
+        },
+        {
+            "enabled": true,
+            "gym_id": "546351b5832f429bb76c41eea718618d.16",
+            "gym_name": "Imantas Kulturas Nams",
+            "gym_points": 497,
+            "team_id": 2,
+            "gym_inid": "586e6a4da1a38e138e252244",
+            "longitude": 56.959666,
+            "latitude": 24.016979,
+            "location": [
+                56.959666,
+                24.016979
+            ],
+            "inside": [
+                {
+                    "trainer_name": "egobosss",
+                    "pokemon_id": 17,
+                    "cp": 584
+                }
+            ],
+            "url": "http://lh3.ggpht.com/jEJl0KDr0GrnEIOKptGV76ki0ImGYcDq8IWvQnn5zDqKxZF64axRtlrCFp7W1FxyoaRhz8V9iZH6S6IIkguz",
+            "lastseen": "2018-01-14T06:57:42.157Z"
+        },
+        {
+            "enabled": true,
+            "gym_id": "13842859a6a84b81a30f26a10ef1dd3f.16",
+            "gym_name": "RSU Medicīnas Izglītības Tehnoloģiju Centrs",
+            "gym_points": 506,
+            "team_id": 2,
+            "gym_inid": "586e6a4d77fc361393c201a4",
+            "longitude": 56.959477,
+            "latitude": 24.022346,
+            "location": [
+                56.959477,
+                24.022346
+            ],
+            "inside": [
+                {
+                    "trainer_name": "egobosss",
+                    "pokemon_id": 17,
+                    "cp": 581
+                }
+            ],
+            "url": "http://lh6.ggpht.com/-22YzA2elLVUnbq3C_7Mivg_9nhfLsONzVMR0grnpGuWoZGGHV5wUrObNnXeSmhPLcZU6vFVDrg7oAOccGB4",
+            "lastseen": "2018-01-14T07:01:30.586Z"
+        },
+        {
+            "enabled": true,
+            "gym_id": "76f5710e7c5b4d5cafc0463a753ec55b.16",
+            "gym_name": "Train Station \"Zolitūde\"",
+            "gym_points": 5928,
+            "team_id": 2,
+            "gym_inid": "5875faa8baf3436edee9f7fc",
+            "longitude": 56.948971,
+            "latitude": 24.022312,
+            "location": [
+                56.948971,
+                24.022312
+            ],
+            "inside": [
+                {
+                    "trainer_name": "Jur4ixxx",
+                    "pokemon_id": 242,
+                    "cp": 3189
+                },
+                {
+                    "trainer_name": "Laacens",
+                    "pokemon_id": 143,
+                    "cp": 2916
+                },
+                {
+                    "trainer_name": "juliteee",
+                    "pokemon_id": 248,
+                    "cp": 3142
+                }
+            ],
+            "url": "http://lh5.ggpht.com/o_4p5yNStaydGy7Sc2pkURycUI7z43oTD4mnpkjRpCVavL4mKIpTvst82dyYkIz86KatM8vrH1yDZCgYA4KYKQ",
+            "lastseen": "2018-01-14T13:08:44.368Z"
+        },
+        {
+            "enabled": true,
+            "gym_id": "fb0e663432604223bd9f392752a5dcc9.16",
+            "gym_name": "Kafejnica Priedes",
+            "gym_points": 524,
+            "team_id": 3,
+            "gym_inid": "5875faf9baf3436edee9fba0",
+            "longitude": 56.969484,
+            "latitude": 24.013705,
+            "location": [
+                56.969484,
+                24.013705
+            ],
+            "inside": [
+                {
+                    "trainer_name": "Zasulauks",
+                    "pokemon_id": 104,
+                    "cp": 528
+                }
+            ],
+            "url": "http://lh4.ggpht.com/KaN2VuuOM-g_2M_30mcyH09uPDxSpcl1kgsYVK7Pc18uHrzTqLFT3o8NK1X27tpeK7NVORFoseV3h-LdtiCoJg",
+            "lastseen": "2018-01-12T16:37:00.407Z"
+        },
+        {
+            "enabled": true,
+            "gym_id": "8fd87d24623e4503a0a571462a412e24.16",
+            "gym_name": "Playground",
+            "gym_points": 5879,
+            "team_id": 2,
+            "gym_inid": "59484dad4710440d9a8fe9f5",
+            "longitude": 56.944858,
+            "latitude": 24.019164,
+            "location": [
+                56.944858,
+                24.019164
+            ],
+            "inside": [
+                {
+                    "trainer_name": "Jur4ixxx",
+                    "pokemon_id": 242,
+                    "cp": 3159
+                },
+                {
+                    "trainer_name": "juliteee",
+                    "pokemon_id": 113,
+                    "cp": 1112
+                },
+                {
+                    "trainer_name": "Laacens",
+                    "pokemon_id": 248,
+                    "cp": 2048
+                },
+                {
+                    "trainer_name": "ZIKLV",
+                    "pokemon_id": 68,
+                    "cp": 2055
+                },
+                {
+                    "trainer_name": "HoLLy1484",
+                    "pokemon_id": 73,
+                    "cp": 1546
+                }
+            ],
+            "url": "http://lh3.googleusercontent.com/JnOBdBUhmzya8pJxBHFSFFpHNR1jRHkLAE4z_pmOEyfu8YGYDIV8VscJSpo0rGCKJeXa0-kjtPlPRHBONqQ",
+            "lastseen": "2018-01-14T13:08:44.366Z"
+        },
+        {
+            "enabled": true,
+            "gym_id": "c4199546fc5d4e5fbba6e78a746c39ff.12",
+            "gym_name": "Sudrabkalniņš, Kritušo saraksts",
+            "gym_points": 617,
+            "team_id": 1,
+            "gym_inid": "5875faa8baf3436edee9f7fb",
+            "longitude": 56.9608,
+            "latitude": 24.032357,
+            "location": [
+                56.9608,
+                24.032357
+            ],
+            "inside": [
+                {}
+            ],
+            "url": "http://lh3.ggpht.com/S4dYxNX8OapHFSWMtH1uAfCXy7MtAVTUJCK9IgEi5eY9OBCrv-xZMY1gOeg4EoWajX1llqWsK9Oh-ta-n3Eu",
+            "lastseen": "2018-01-14T07:01:46.562Z"
+        },
+        {
+            "enabled": true,
+            "gym_id": "7618a8d0442c48ce9bfbb04d0ec2fa5b.16",
+            "gym_name": "Mural of Plants",
+            "gym_points": 244,
+            "team_id": 2,
+            "gym_inid": "5875fb41baf3436edee9fe55",
+            "longitude": 56.953422,
+            "latitude": 24.037233,
+            "location": [
+                56.953422,
+                24.037233
+            ],
+            "inside": [
+                {
+                    "trainer_name": "egobosss",
+                    "pokemon_id": 17,
+                    "cp": 323
+                }
+            ],
+            "url": "http://lh5.ggpht.com/HmpnwvpRSyYXnMRAH3pb23VfTbXj_F4PAja7smc4EconIwc5hqUDl02pF42HXa2nPfYIrY2o4in6bzC7Dts-kw",
+            "lastseen": "2018-01-14T07:01:46.565Z"
+        },
+        {
+            "enabled": true,
+            "gym_id": "6f084b8744fc4b7f8659a30048dcfc21.16",
+            "gym_name": "Monument for Latvian National Movement in 1988",
+            "gym_points": 2676,
+            "team_id": 3,
+            "gym_inid": "58763322baf3436edeebc750",
+            "longitude": 56.936195,
+            "latitude": 24.021896,
+            "location": [
+                56.936195,
+                24.021896
+            ],
+            "inside": [
+                {
+                    "trainer_name": "Turxmen",
+                    "pokemon_id": 66,
+                    "cp": 781
+                }
+            ],
+            "url": "http://lh4.ggpht.com/uGpNPGKxOVJnYLqQsWK8COa0p6B5Rxlqzl08FhvmM8pkBOXW2qprou2Zp7AAU-yusDfjgi2VE1UPIbKfdw5oZw",
+            "lastseen": "2018-01-14T08:08:41.213Z"
+        },
+        {
+            "enabled": true,
+            "gym_id": "33d6b06a970f4d2b8b8125cf029b8ffa.16",
+            "gym_name": "Latvian Women",
+            "gym_points": 1612,
+            "team_id": 2,
+            "gym_inid": "5891ce8aa00565671bbe55bf",
+            "longitude": 56.941089,
+            "latitude": 24.034667,
+            "location": [
+                56.941089,
+                24.034667
+            ],
+            "inside": [
+                {
+                    "trainer_name": "whatewaar",
+                    "pokemon_id": 212,
+                    "cp": 2606
+                },
+                {
+                    "trainer_name": "Jur4ixxx",
+                    "pokemon_id": 162,
+                    "cp": 1390
+                },
+                {
+                    "trainer_name": "juliteee",
+                    "pokemon_id": 143,
+                    "cp": 2702
+                },
+                {
+                    "trainer_name": "Laacens",
+                    "pokemon_id": 122,
+                    "cp": 830
+                }
+            ],
+            "url": "http://lh3.googleusercontent.com/T4TiuQY0UAEN-zaNa2fnLA5rEEB_0pI8nBrK1iRZfgW5u17lDMElFxBmUTEy36dHAdCkOP67coKLsuRvnW6BUQ",
+            "lastseen": "2018-01-14T11:48:55.289Z"
+        },
+        {
+            "enabled": true,
+            "gym_id": "25534d907e524f6c85bd823b6833da77.16",
+            "gym_name": "new Spriditis",
+            "gym_points": 830,
+            "team_id": 3,
+            "gym_inid": "58656ab758422732bc41d6af",
+            "longitude": 56.940273,
+            "latitude": 24.034448,
+            "location": [
+                56.940273,
+                24.034448
+            ],
+            "inside": [
+                {
+                    "trainer_name": "virulits",
+                    "pokemon_id": 122,
+                    "cp": 983
+                }
+            ],
+            "url": "http://lh3.googleusercontent.com/IkQin-4JYf6UOp8-rSw_yENvJ9YNgXvmGjUNfACY-mLOaIX8PvtXV_u_Y7LGs6F6uxiv_MRyK_Np2hP4Fqo",
+            "lastseen": "2018-01-14T11:48:33.158Z"
+        }
+    ],
+    "pokestops": [
+        {
+            "pokestop_id": "853cdb51ba9440ad9b8c8af63e886c5c.16",
+            "longitude": 56.955738,
+            "latitude": 23.998313
+        },
+        {
+            "pokestop_id": "975ef475bf394ac381d96a44672090a0.16",
+            "longitude": 56.953974,
+            "latitude": 23.998275
+        },
+        {
+            "pokestop_id": "4c0c5ed9ad9e4d6e821a8e90f0bbafc0.16",
+            "longitude": 56.952431,
+            "latitude": 24.00039
+        },
+        {
+            "pokestop_id": "17e017f4d1a04fe0b4dd39c57535c47a.16",
+            "longitude": 56.953067,
+            "latitude": 24.002423
+        },
+        {
+            "pokestop_id": "8a26fb1e0f8e43cbb1d6a802e15f94b0.16",
+            "longitude": 56.955276,
+            "latitude": 24.004287
+        },
+        {
+            "pokestop_id": "c5cdba038d65447aace00474bcd4f812.16",
+            "longitude": 56.953095,
+            "latitude": 24.003581
+        },
+        {
+            "pokestop_id": "1da371e12f8642c88cad56fd795333a4.16",
+            "longitude": 56.952356,
+            "latitude": 24.002514
+        },
+        {
+            "pokestop_id": "f6513a265be544dfaca9517c7f22c772.16",
+            "longitude": 56.952065,
+            "latitude": 24.003004
+        },
+        {
+            "pokestop_id": "0a4da3e914b04f35956bdea8e3d95861.16",
+            "longitude": 56.952698,
+            "latitude": 24.004209
+        },
+        {
+            "pokestop_id": "01284d3f86084138bc456fa899b46291.16",
+            "longitude": 56.954198,
+            "latitude": 24.005655
+        },
+        {
+            "pokestop_id": "b3709ca9970c4bbb86364fdba32b18de.16",
+            "longitude": 56.951514,
+            "latitude": 24.00478
+        },
+        {
+            "pokestop_id": "fc2fc84c61754ba5bcc02748fa440df9.16",
+            "longitude": 56.950891,
+            "latitude": 24.00375
+        },
+        {
+            "pokestop_id": "dcf16bd9762b4ce387c7e806c4b19c04.16",
+            "longitude": 56.962056,
+            "latitude": 24.001303
+        },
+        {
+            "pokestop_id": "0fa2476d09e841b48e98ab78dd3fd183.16",
+            "longitude": 56.950833,
+            "latitude": 24.005076
+        },
+        {
+            "pokestop_id": "340bfc2d83314783ae929893700bc9c2.16",
+            "longitude": 56.950587,
+            "latitude": 24.004668
+        },
+        {
+            "pokestop_id": "ce2d6a8dda9f46de8e795cca35e1cf4b.16",
+            "longitude": 56.962122,
+            "latitude": 24.003248
+        },
+        {
+            "pokestop_id": "2e167a4c7be048f09ddc0f1d6a305de2.16",
+            "longitude": 56.951053,
+            "latitude": 24.00713
+        },
+        {
+            "pokestop_id": "abb573b43ad2472a967828d0038489df.16",
+            "longitude": 56.947924,
+            "latitude": 24.00116
+        },
+        {
+            "pokestop_id": "e7a1ab242cea4e8a9d73968a61eec920.16",
+            "longitude": 56.947117,
+            "latitude": 24.000009
+        },
+        {
+            "pokestop_id": "4c2ba70061f345a9b4dc981d7c096386.16",
+            "longitude": 56.947337,
+            "latitude": 24.005723
+        },
+        {
+            "pokestop_id": "cb677db08331421c9210a2819df7acbb.16",
+            "longitude": 56.960778,
+            "latitude": 24.015057
+        },
+        {
+            "pokestop_id": "609fd6c6e32e47c2a2bc322df4bc5722.16",
+            "longitude": 56.945341,
+            "latitude": 24.006673
+        },
+        {
+            "pokestop_id": "696a9569647e46a28238210f35d3a6d1.16",
+            "longitude": 56.958711,
+            "latitude": 24.017487
+        },
+        {
+            "pokestop_id": "2f49a4f24076436e8e1031bab38d5708.16",
+            "longitude": 56.946638,
+            "latitude": 24.013569
+        },
+        {
+            "pokestop_id": "f4dfb6c40c004fa6981f42cd1d79301a.16",
+            "longitude": 56.953348,
+            "latitude": 23.970641
+        },
+        {
+            "pokestop_id": "518b67d7c24e4a18a00739ae671fecf6.16",
+            "longitude": 56.946574,
+            "latitude": 24.016009
+        },
+        {
+            "pokestop_id": "aae4748e3cad4aa699d02100497a6f99.16",
+            "longitude": 56.946552,
+            "latitude": 24.017241
+        },
+        {
+            "pokestop_id": "a33fd427adec4dbea58cdcdf75dac43b.16",
+            "longitude": 56.946867,
+            "latitude": 24.018887
+        },
+        {
+            "pokestop_id": "ba853f8ad9374428962517968531bf6b.16",
+            "longitude": 56.965683,
+            "latitude": 24.017856
+        },
+        {
+            "pokestop_id": "e987eddc82fd466fb7adcf785714efb7.16",
+            "longitude": 56.947396,
+            "latitude": 24.019908
+        },
+        {
+            "pokestop_id": "4dd238fc31f24fe4bd51300a6b9e0e2a.16",
+            "longitude": 56.968815,
+            "latitude": 24.012363
+        },
+        {
+            "pokestop_id": "4880bdd3296c477dace4404ab93c7221.16",
+            "longitude": 56.944945,
+            "latitude": 24.017176
+        },
+        {
+            "pokestop_id": "8ab21c409d904748911dc53a9b3c15e2.16",
+            "longitude": 56.940079,
+            "latitude": 24.004676
+        },
+        {
+            "pokestop_id": "52ba7638456a4d4692b9c49b5c4dd2bf.16",
+            "longitude": 56.942613,
+            "latitude": 24.016949
+        },
+        {
+            "pokestop_id": "978fca52a3da488580f3378a3c243429.16",
+            "longitude": 56.970378,
+            "latitude": 24.013863
+        },
+        {
+            "pokestop_id": "789be544434d4fd5952fb5cbaed07194.16",
+            "longitude": 56.947941,
+            "latitude": 24.024981
+        },
+        {
+            "pokestop_id": "a65e7d9b05a0410dbc9db8c0fcc53019.16",
+            "longitude": 56.948886,
+            "latitude": 24.026475
+        },
+        {
+            "pokestop_id": "f52f6bb6e90e4ecb8b3324fa758694c0.16",
+            "longitude": 56.950737,
+            "latitude": 23.963112
+        },
+        {
+            "pokestop_id": "605da5f43d364b4fa8898e303c3d9ac1.16",
+            "longitude": 56.965628,
+            "latitude": 24.027227
+        },
+        {
+            "pokestop_id": "e5a2ca88bfac4d9ba963dde860d55b1f.16",
+            "longitude": 56.960654,
+            "latitude": 24.031406
+        },
+        {
+            "pokestop_id": "d5468ed96e194deea9d89f3f3dbdd4f3.16",
+            "longitude": 56.956511,
+            "latitude": 24.033106
+        },
+        {
+            "pokestop_id": "0308a4462ae3482687e48534337ee960.16",
+            "longitude": 56.960782,
+            "latitude": 24.032713
+        },
+        {
+            "pokestop_id": "d2e27da059de405c8668a6d6b3942c18.16",
+            "longitude": 56.940383,
+            "latitude": 24.02204
+        },
+        {
+            "pokestop_id": "8600c156799c42ee8374c7daa498f381.16",
+            "longitude": 56.954299,
+            "latitude": 24.037294
+        },
+        {
+            "pokestop_id": "801e1b4b65544059bc64db068af61a2b.16",
+            "longitude": 56.958761,
+            "latitude": 24.037575
+        },
+        {
+            "pokestop_id": "148b095487d749de8ba6abb106a4c39b.16",
+            "longitude": 56.936547,
+            "latitude": 24.021557
+        },
+        {
+            "pokestop_id": "da93e6a8d58a4b87b55d23939b61c7b0.16",
+            "longitude": 56.972175,
+            "latitude": 24.030623
+        },
+        {
+            "pokestop_id": "4eb6a1e86f8c4f8baa6b80732be94e48.16",
+            "longitude": 56.951733,
+            "latitude": 24.041372
+        },
+        {
+            "pokestop_id": "ec421d0ecab644afb13da729298e0035.16",
+            "longitude": 56.931065,
+            "latitude": 24.004654
+        },
+        {
+            "pokestop_id": "47a755faed2147fe8a901404540571c5.16",
+            "longitude": 56.940702,
+            "latitude": 24.033371
+        },
+        {
+            "pokestop_id": "603dd821b038405280b1c027220c0844.16",
+            "longitude": 56.951557,
+            "latitude": 24.042825
+        },
+        {
+            "pokestop_id": "01277057b72f4d86b09a96fb87e9f009.16",
+            "longitude": 56.965848,
+            "latitude": 24.040642
+        },
+        {
+            "pokestop_id": "8a99dc33bd204c0ba4d91ac45660afee.16",
+            "longitude": 56.941776,
+            "latitude": 24.037217
+        },
+        {
+            "pokestop_id": "ea9a502525e9487fbc59fc73d027abfc.16",
+            "longitude": 56.956239,
+            "latitude": 24.0447
+        },
+        {
+            "pokestop_id": "a52ed47f31e541e6be8d1eff021f5caf.16",
+            "longitude": 56.954304,
+            "latitude": 24.045821
+        },
+        {
+            "pokestop_id": "0bbb12704f3941f59b27eefa56da559c.16",
+            "longitude": 56.954778,
+            "latitude": 24.046034
+        },
+        {
+            "pokestop_id": "6d1de1ee49a349f9b55e66777519b949.16",
+            "longitude": 56.953402,
+            "latitude": 24.046174
+        },
+        {
+            "pokestop_id": "f7fb703cd73647db9c7a292e424c2603.16",
+            "longitude": 56.927763,
+            "latitude": 23.987082
+        },
+        {
+            "pokestop_id": "cd6c4f88ae7c4abdbadef7d236e66c0c.16",
+            "longitude": 56.943394,
+            "latitude": 24.043264
+        },
+        {
+            "pokestop_id": "3025102bb1cc40558b2caa00c6818156.16",
+            "longitude": 56.945307,
+            "latitude": 24.045101
+        },
+        {
+            "pokestop_id": "e6aa34e84bd24a3ab13747f468700270.16",
+            "longitude": 56.940804,
+            "latitude": 24.042737
+        },
+        {
+            "pokestop_id": "b49af5f4df4f47e386e50a753ca24916.16",
+            "longitude": 56.956349,
+            "latitude": 24.051173
+        },
+        {
+            "pokestop_id": "8e75d29063b64087958719b8bc886206.16",
+            "longitude": 56.944174,
+            "latitude": 24.046876
+        },
+        {
+            "pokestop_id": "d21e4eae660c44148b3ee6aa273f0d7f.16",
+            "longitude": 56.960266,
+            "latitude": 24.050755
+        },
+        {
+            "pokestop_id": "62c20114fe344f0f94e1f46e96024647.16",
+            "longitude": 56.947024,
+            "latitude": 24.050021
+        },
+        {
+            "pokestop_id": "10a5bc14ffe44403bbe4709c865fa963.16",
+            "longitude": 56.970961,
+            "latitude": 24.045729
+        },
+        {
+            "pokestop_id": "9a6d59818c44407b8a4de3231c50272c.16",
+            "longitude": 56.926962,
+            "latitude": 24.017683
+        },
+        {
+            "pokestop_id": "e433d3d8af8b4ec085e4d7dddf9ffaf5.16",
+            "longitude": 56.947112,
+            "latitude": 24.051098
+        },
+        {
+            "pokestop_id": "21c184fd13b34493b42ba29e6ca9a95c.16",
+            "longitude": 56.957043,
+            "latitude": 24.053404
+        },
+        {
+            "pokestop_id": "a382d427215f42c28ac5821658e92c20.16",
+            "longitude": 56.930679,
+            "latitude": 24.030555
+        },
+        {
+            "pokestop_id": "224d13a8fcb5403fb978f1f3b513823e.16",
+            "longitude": 56.924831,
+            "latitude": 23.981225
+        },
+        {
+            "pokestop_id": "fa88f73983204c4489fd87e164434d04.16",
+            "longitude": 56.949734,
+            "latitude": 24.054074
+        },
+        {
+            "pokestop_id": "9a0200aed4ec4ee49ac94a638e146b02.11",
+            "longitude": 56.953651,
+            "latitude": 24.055029
+        },
+        {
+            "pokestop_id": "326432f5e7f943a9964933c73139f995.16",
+            "longitude": 56.960532,
+            "latitude": 24.054714
+        },
+        {
+            "pokestop_id": "1ee1c664aceb417ca7ec974053f9b594.16",
+            "longitude": 56.953751,
+            "latitude": 24.055626
+        },
+        {
+            "pokestop_id": "5bc1d64c92fe4228ba142bf6df0efa3d.16",
+            "longitude": 56.953238,
+            "latitude": 24.055563
+        },
+        {
+            "pokestop_id": "461632cab262433891df4af1bf398194.16",
+            "longitude": 56.92585,
+            "latitude": 24.019799
+        },
+        {
+            "pokestop_id": "63e7527445584654887f5c227a4270a5.16",
+            "longitude": 56.961887,
+            "latitude": 24.055149
+        },
+        {
+            "pokestop_id": "73110a9fb85448ba9c26fd377b1954b1.16",
+            "longitude": 56.935566,
+            "latitude": 24.043412
+        },
+        {
+            "pokestop_id": "36fcdc1db8c148268ddc6915258ed09a.16",
+            "longitude": 56.936063,
+            "latitude": 24.044435
+        },
+        {
+            "pokestop_id": "1882a0cfc4a4480fb9ffcf38a9f003ed.16",
+            "longitude": 56.931244,
+            "latitude": 24.037108
+        },
+        {
+            "pokestop_id": "eafb3bd367de4c009e49ce0316896f9e.16",
+            "longitude": 56.936458,
+            "latitude": 24.045635
+        },
+        {
+            "pokestop_id": "50439a30b1d8475fa7983a0691c32da1.16",
+            "longitude": 56.929955,
+            "latitude": 24.034626
+        },
+        {
+            "pokestop_id": "b3a47b6e79814554b8ea50bf6f0e972c.16",
+            "longitude": 56.949636,
+            "latitude": 24.056588
+        },
+        {
+            "pokestop_id": "7daae67ee3aa45f99eadb4aad49df4ab.16",
+            "longitude": 56.938478,
+            "latitude": 24.04894
+        },
+        {
+            "pokestop_id": "f9fc6e7919b44e6d840a57724953caa6.16",
+            "longitude": 56.937104,
+            "latitude": 24.047568
+        },
+        {
+            "pokestop_id": "e153974c997b402382ab3432369b1329.16",
+            "longitude": 56.941472,
+            "latitude": 24.052091
+        },
+        {
+            "pokestop_id": "08304549a9a443cbb92d19abc0e33f03.16",
+            "longitude": 56.949904,
+            "latitude": 24.057437
+        },
+        {
+            "pokestop_id": "1ec585c88048436da11daef9b0bbac3a.16",
+            "longitude": 56.931141,
+            "latitude": 24.039063
+        },
+        {
+            "pokestop_id": "3f998d7f6a7448e8a4b3dfbc18ff4ace.16",
+            "longitude": 56.95197,
+            "latitude": 24.058065
+        },
+        {
+            "pokestop_id": "0348544381fe4d968779fadc4384ea60.16",
+            "longitude": 56.922751,
+            "latitude": 23.979772
+        },
+        {
+            "pokestop_id": "e48fa6b847b84b7d8e84c756cbaeb3c0.16",
+            "longitude": 56.922424,
+            "latitude": 23.982129
+        },
+        {
+            "pokestop_id": "adf25f4784d04bc9b78eba7ab79c185e.16",
+            "longitude": 56.933826,
+            "latitude": 24.043971
+        },
+        {
+            "pokestop_id": "dfabe67e139f4c88b7c5fbac4df4d883.16",
+            "longitude": 56.965174,
+            "latitude": 24.057164
+        },
+        {
+            "pokestop_id": "bb9730658ee043dbb53f33075a9ade24.16",
+            "longitude": 56.944131,
+            "latitude": 24.055943
+        },
+        {
+            "pokestop_id": "3ec6414517d8498a935f503757f848e7.16",
+            "longitude": 56.949797,
+            "latitude": 24.05883
+        },
+        {
+            "pokestop_id": "d6cc75f54328422c8076706ab0996ef1.16",
+            "longitude": 56.92243,
+            "latitude": 23.977468
+        },
+        {
+            "pokestop_id": "cc4f4433498d4409959b4c40b6168f5a.16",
+            "longitude": 56.950717,
+            "latitude": 24.05919
+        },
+        {
+            "pokestop_id": "327831b498544d438e7d42a4ddb3101d.16",
+            "longitude": 56.945184,
+            "latitude": 24.05696
+        },
+        {
+            "pokestop_id": "fd1d95379c544ceeb22a19a197bc6d54.16",
+            "longitude": 56.950325,
+            "latitude": 24.05934
+        },
+        {
+            "pokestop_id": "edefced9f74d4a6c803ef3520159dd16.16",
+            "longitude": 56.92169,
+            "latitude": 23.980045
+        },
+        {
+            "pokestop_id": "7c0f2aeed58148bf91c452cd76df9a4a.16",
+            "longitude": 56.949585,
+            "latitude": 24.059703
+        },
+        {
+            "pokestop_id": "e1e7f07440b44b4f8e101314d93a5eec.16",
+            "longitude": 56.921204,
+            "latitude": 23.981339
+        },
+        {
+            "pokestop_id": "2836dc03a5944e99b035dce9664ba9c3.12",
+            "longitude": 56.961333,
+            "latitude": 24.060595
+        },
+        {
+            "pokestop_id": "7f3d5408972047ee85cda9fe31ba75f8.12",
+            "longitude": 56.950087,
+            "latitude": 24.060552
+        },
+        {
+            "pokestop_id": "cfcd6dacbc5c4ea5ada60b20fe23a176.16",
+            "longitude": 56.920647,
+            "latitude": 23.983532
+        },
+        {
+            "pokestop_id": "0b983bfdf9fe4b17bfaee2abd977cc1a.16",
+            "longitude": 56.957257,
+            "latitude": 24.061508
+        },
+        {
+            "pokestop_id": "b6ca692db5894679954f22176afcaad3.12",
+            "longitude": 56.961584,
+            "latitude": 24.060724
+        },
+        {
+            "pokestop_id": "77e72482266a4f47bc5fdf1e3f6f044a.16",
+            "longitude": 56.920026,
+            "latitude": 23.991173
+        },
+        {
+            "pokestop_id": "5db35f4809db4c6fb51298d050bf07e2.16",
+            "longitude": 56.944065,
+            "latitude": 24.058178
+        },
+        {
+            "pokestop_id": "42fb411abc514ffd92adec7bbff7999e.16",
+            "longitude": 56.957017,
+            "latitude": 24.0625
+        },
+        {
+            "pokestop_id": "5c69e64e29b24f15bf0077be53ff2e3e.16",
+            "longitude": 56.944943,
+            "latitude": 24.059648
+        },
+        {
+            "pokestop_id": "09ba7d26ab9d40c09ae055d7ad9016f0.12",
+            "longitude": 56.950634,
+            "latitude": 24.06222
+        },
+        {
+            "pokestop_id": "76d9b04afcc44b0ab14e54b1a5535914.16",
+            "longitude": 56.941888,
+            "latitude": 24.057842
+        },
+        {
+            "pokestop_id": "80ba86c213b448f58241cbf29a132f83.16",
+            "longitude": 56.954148,
+            "latitude": 24.063121
+        },
+        {
+            "pokestop_id": "b6bc4ef24a884d42a20ad12020b6e9ce.16",
+            "longitude": 56.952619,
+            "latitude": 24.063157
+        },
+        {
+            "pokestop_id": "350f99ce217a48d687c200c1c36b575a.16",
+            "longitude": 56.94442,
+            "latitude": 24.060326
+        },
+        {
+            "pokestop_id": "ea4b84a9f0d14f2e9cdc01ee8be33cf0.16",
+            "longitude": 56.948992,
+            "latitude": 24.062595
+        },
+        {
+            "pokestop_id": "9655ac8757c144fbb6505efe26e4455a.12",
+            "longitude": 56.959866,
+            "latitude": 24.064558
+        },
+        {
+            "pokestop_id": "c7ef45ea96d348f3a9be329a0801ea98.16",
+            "longitude": 56.941672,
+            "latitude": 24.060056
+        },
+        {
+            "pokestop_id": "eceeb4cc14714593b4a51dacd4ae2319.16",
+            "longitude": 56.950976,
+            "latitude": 24.064721
+        },
+        {
+            "pokestop_id": "eda54a67d9ef409e82963915ea1df1ff.16",
+            "longitude": 56.968942,
+            "latitude": 24.061031
+        },
+        {
+            "pokestop_id": "92b05588b28040b18a98a6f45f665609.16",
+            "longitude": 56.969125,
+            "latitude": 24.061098
+        },
+        {
+            "pokestop_id": "d383b38f7e03436092d1154316344c18.16",
+            "longitude": 56.947413,
+            "latitude": 24.063768
+        },
+        {
+            "pokestop_id": "fa0e8768f49f40f1924d3421af8df9e5.16",
+            "longitude": 56.951061,
+            "latitude": 24.065466
+        },
+        {
+            "pokestop_id": "a9b2828975d94630bc1e0b9971b33fd4.16",
+            "longitude": 56.944014,
+            "latitude": 23.929111
+        },
+        {
+            "pokestop_id": "47cc2792cb964d5a8dc2fed1b48e39e1.16",
+            "longitude": 56.945993,
+            "latitude": 24.063947
+        },
+        {
+            "pokestop_id": "6686dff26a3948f89ee3261addf249e4.16",
+            "longitude": 56.954533,
+            "latitude": 24.066651
+        },
+        {
+            "pokestop_id": "747385f3eb794ed2b591c73c203a8ab7.16",
+            "longitude": 56.940684,
+            "latitude": 24.061335
+        },
+        {
+            "pokestop_id": "92775e4f2462469fbeb30cf33cd35f67.12",
+            "longitude": 56.960642,
+            "latitude": 24.066571
+        },
+        {
+            "pokestop_id": "71a7a44064644ace9c92f193076ff179.16",
+            "longitude": 56.941567,
+            "latitude": 24.062273
+        },
+        {
+            "pokestop_id": "3a57e5ab86be419483f8fbbf6f83d71d.16",
+            "longitude": 56.955346,
+            "latitude": 24.067512
+        },
+        {
+            "pokestop_id": "2819eff6dd6e417da0287ac4a89cdc2b.16",
+            "longitude": 56.950773,
+            "latitude": 24.066932
+        },
+        {
+            "pokestop_id": "9894798d8f3b4ba5a9941474e099ecda.16",
+            "longitude": 56.941868,
+            "latitude": 24.063016
+        },
+        {
+            "pokestop_id": "9b9dc19a0488454d8fac72747afb3f14.16",
+            "longitude": 56.938777,
+            "latitude": 24.060604
+        },
+        {
+            "pokestop_id": "5e412d9cc6994270a925a281ae4af953.16",
+            "longitude": 56.950838,
+            "latitude": 24.067609
+        },
+        {
+            "pokestop_id": "9a0e52f16b4d495c94778a0362ff39de.16",
+            "longitude": 56.961943,
+            "latitude": 24.06798
+        },
+        {
+            "pokestop_id": "d788e68fb1d243eeb9313541c99a1e62.16",
+            "longitude": 56.951184,
+            "latitude": 24.068487
+        },
+        {
+            "pokestop_id": "4c909ef938f94208adc222ca77ba5914.16",
+            "longitude": 56.94864,
+            "latitude": 24.068022
+        },
+        {
+            "pokestop_id": "4982ba97d87c4a5b933c22ae7790099b.16",
+            "longitude": 56.966792,
+            "latitude": 24.066619
+        },
+        {
+            "pokestop_id": "36f820aa96404cf68366eefb0541942a.16",
+            "longitude": 56.951827,
+            "latitude": 24.06918
+        },
+        {
+            "pokestop_id": "5dbacbd24a1d457e94142e38c13356c4.16",
+            "longitude": 56.95124,
+            "latitude": 24.069195
+        },
+        {
+            "pokestop_id": "b2e23aec1c5c436194647c8a944b48b6.16",
+            "longitude": 56.949196,
+            "latitude": 24.068893
+        },
+        {
+            "pokestop_id": "51da622462c34e72aaffe4b27d8c7968.16",
+            "longitude": 56.93886,
+            "latitude": 24.063146
+        },
+        {
+            "pokestop_id": "2c9689cb2d6e4c8c8384210cc2148982.16",
+            "longitude": 56.935964,
+            "latitude": 24.060565
+        },
+        {
+            "pokestop_id": "1fc84243c15348d19aa968669bc8ac5f.16",
+            "longitude": 56.916323,
+            "latitude": 24.012615
+        },
+        {
+            "pokestop_id": "a1c59160f06c4bea95e56d139e9473e4.16",
+            "longitude": 56.943135,
+            "latitude": 24.066735
+        },
+        {
+            "pokestop_id": "2f4dc5f00e7443118657978bc6269f40.16",
+            "longitude": 56.950734,
+            "latitude": 24.070038
+        },
+        {
+            "pokestop_id": "73ed057bf680489a9e178e28e7b4310c.16",
+            "longitude": 56.950475,
+            "latitude": 24.070188
+        },
+        {
+            "pokestop_id": "e407b105a95347649b19045da0cfb134.16",
+            "longitude": 56.943086,
+            "latitude": 24.067658
+        },
+        {
+            "pokestop_id": "ee48330abb66411c88a079f353bfbc32.16",
+            "longitude": 56.96814,
+            "latitude": 24.068355
+        },
+        {
+            "pokestop_id": "56e1fe747cf74dfbafb6e08f46a06096.16",
+            "longitude": 56.950788,
+            "latitude": 24.071273
+        },
+        {
+            "pokestop_id": "f3f282703327496ab1b0579156083ac4.16",
+            "longitude": 56.940688,
+            "latitude": 24.066979
+        },
+        {
+            "pokestop_id": "1008a9fec590466baff0e87ecad70863.11",
+            "longitude": 56.94605,
+            "latitude": 24.070445
+        },
+        {
+            "pokestop_id": "40822d80f8d443e4a3100aef808fdf26.11",
+            "longitude": 56.946836,
+            "latitude": 24.070888
+        },
+        {
+            "pokestop_id": "3eaca02543d34f008e6af1a73acc5646.16",
+            "longitude": 56.94179,
+            "latitude": 24.068682
+        },
+        {
+            "pokestop_id": "3bdb434ffafb47a084b094997aa98dc3.16",
+            "longitude": 56.943763,
+            "latitude": 24.070034
+        },
+        {
+            "pokestop_id": "cfa831afa25f40a0b0a3b887e06e2efb.16",
+            "longitude": 56.946217,
+            "latitude": 24.071431
+        },
+        {
+            "pokestop_id": "32185b41577646cfaf5e744f1a2f0c63.16",
+            "longitude": 56.948233,
+            "latitude": 24.072231
+        },
+        {
+            "pokestop_id": "8e92ec9e3ff84daeb689500fb2b9ea1b.16",
+            "longitude": 56.950262,
+            "latitude": 24.07282
+        },
+        {
+            "pokestop_id": "0c7fc79451ba4b379dda5d97b7e67a1f.16",
+            "longitude": 56.930053,
+            "latitude": 24.058119
+        },
+        {
+            "pokestop_id": "b9f61c0ee20b43ad812fce59fa4008f7.16",
+            "longitude": 56.947783,
+            "latitude": 24.072925
+        },
+        {
+            "pokestop_id": "b8662f0483a842b795c94e7a20227a01.16",
+            "longitude": 56.939949,
+            "latitude": 24.069272
+        },
+        {
+            "pokestop_id": "cf2a7d36792a440199cbd927cddff840.16",
+            "longitude": 56.967082,
+            "latitude": 24.072152
+        },
+        {
+            "pokestop_id": "8a07d3a94f7d47309701f3d87b0454a2.16",
+            "longitude": 56.94557,
+            "latitude": 24.072781
+        },
+        {
+            "pokestop_id": "8a79e0058d34445e81dee68c2b132a75.16",
+            "longitude": 56.939546,
+            "latitude": 24.069893
+        },
+        {
+            "pokestop_id": "ffbac2d2c6d04012959e91b86cc3e228.16",
+            "longitude": 56.972421,
+            "latitude": 24.069707
+        },
+        {
+            "pokestop_id": "0f99efa8128f4a9ea58a86cdc5f1f6ce.16",
+            "longitude": 56.953453,
+            "latitude": 24.075917
+        },
+        {
+            "pokestop_id": "84b93237db994496bed4191057dc928f.16",
+            "longitude": 56.945462,
+            "latitude": 24.074046
+        },
+        {
+            "pokestop_id": "927773562d1d4d05b58bb5407f3db0d1.16",
+            "longitude": 56.943501,
+            "latitude": 24.073552
+        },
+        {
+            "pokestop_id": "89572dbb4a0b469aafb8b6048af7998f.16",
+            "longitude": 56.930294,
+            "latitude": 24.062162
+        },
+        {
+            "pokestop_id": "b5b7e548bbaf409f87a7580717eee55a.16",
+            "longitude": 56.94708,
+            "latitude": 24.075706
+        },
+        {
+            "pokestop_id": "3307cff6a4d2467489c1c0d826de0c30.16",
+            "longitude": 56.935669,
+            "latitude": 24.068924
+        },
+        {
+            "pokestop_id": "ad600a5a182b465582e47ce38bc5543d.16",
+            "longitude": 56.941846,
+            "latitude": 24.073932
+        },
+        {
+            "pokestop_id": "69821444286d451996097cb39aad7cee.16",
+            "longitude": 56.94237,
+            "latitude": 24.074804
+        },
+        {
+            "pokestop_id": "e0da7c60d789463082dd118a2400e4ee.16",
+            "longitude": 56.935568,
+            "latitude": 24.069929
+        },
+        {
+            "pokestop_id": "7a560feb060648f19525644d89982a60.16",
+            "longitude": 56.919988,
+            "latitude": 24.04653
+        },
+        {
+            "pokestop_id": "20a72bf3c8b4441793f49d144f246fa4.16",
+            "longitude": 56.945601,
+            "latitude": 24.07692
+        },
+        {
+            "pokestop_id": "02c5b77d8a064ac9846445ec0c5d646d.16",
+            "longitude": 56.937139,
+            "latitude": 24.071668
+        },
+        {
+            "pokestop_id": "f5602b0c540d4f688599d9c29125d047.16",
+            "longitude": 56.944085,
+            "latitude": 24.076286
+        },
+        {
+            "pokestop_id": "e34d6c5b2ba947188a32da261f64e82d.16",
+            "longitude": 56.958225,
+            "latitude": 24.079154
+        },
+        {
+            "pokestop_id": "d2666f3233824f7ab19596b0d3141eed.16",
+            "longitude": 56.929219,
+            "latitude": 24.06362
+        },
+        {
+            "pokestop_id": "d40aefd5af9944b5a2e00c687743fb8e.16",
+            "longitude": 56.940445,
+            "latitude": 24.074605
+        },
+        {
+            "pokestop_id": "4029dd1f8a72463ead57b6247f83233b.12",
+            "longitude": 56.945696,
+            "latitude": 24.07753
+        },
+        {
+            "pokestop_id": "5426c905a2bf4f478a77a81b29be593f.16",
+            "longitude": 56.932043,
+            "latitude": 24.067465
+        },
+        {
+            "pokestop_id": "6a8cf4852935465aaa16897cac31055f.16",
+            "longitude": 56.939085,
+            "latitude": 24.07416
+        },
+        {
+            "pokestop_id": "7958719a37d94110954248363e04bdcd.16",
+            "longitude": 56.926767,
+            "latitude": 24.061233
+        },
+        {
+            "pokestop_id": "d3342c85ad62465889bf6a65bfe5914e.16",
+            "longitude": 56.948643,
+            "latitude": 24.0794
+        },
+        {
+            "pokestop_id": "9e54cd74bce84e68a995a59315ebff22.16",
+            "longitude": 56.94205,
+            "latitude": 24.076708
+        },
+        {
+            "pokestop_id": "c9a1a906a6cc4296b78b3cc74fdfb5bd.12",
+            "longitude": 56.932198,
+            "latitude": 24.069006
+        },
+        {
+            "pokestop_id": "c90941b9025a409d958926ae12086e4a.16",
+            "longitude": 56.947446,
+            "latitude": 24.079883
+        },
+        {
+            "pokestop_id": "7d45328a42d34d94834d6e41009d7aa7.16",
+            "longitude": 56.945948,
+            "latitude": 24.079488
+        },
+        {
+            "pokestop_id": "53be3dafa4a9478780aa437d418be103.16",
+            "longitude": 56.942866,
+            "latitude": 24.078151
+        },
+        {
+            "pokestop_id": "2639e1c9d16a42c28cff2e518ca231db.16",
+            "longitude": 56.951941,
+            "latitude": 24.08129
+        },
+        {
+            "pokestop_id": "3e5c60e91f6c4601adb29eac1f9f9871.16",
+            "longitude": 56.955454,
+            "latitude": 23.910093
+        },
+        {
+            "pokestop_id": "8c3401fe68344b02b65393d618cd9bef.16",
+            "longitude": 56.930637,
+            "latitude": 24.06848
+        },
+        {
+            "pokestop_id": "9d933e9819b6485aaa46112ba8a66455.16",
+            "longitude": 56.944229,
+            "latitude": 24.079547
+        },
+        {
+            "pokestop_id": "e40beb1518124f078d1d599f0530b548.16",
+            "longitude": 56.945847,
+            "latitude": 24.080254
+        },
+        {
+            "pokestop_id": "b6a9e073c1f845009e3f7e03a1370327.16",
+            "longitude": 56.952507,
+            "latitude": 24.082348
+        },
+        {
+            "pokestop_id": "4d09e6dce7e94adfb460e1c7bf5b1a8d.16",
+            "longitude": 56.943033,
+            "latitude": 23.912242
+        },
+        {
+            "pokestop_id": "38fcf1fe853b4cc5b12132fb617ed4ff.16",
+            "longitude": 56.944173,
+            "latitude": 23.911506
+        },
+        {
+            "pokestop_id": "b46f60c62f0b4c2a8653f8c471bbc8bb.12",
+            "longitude": 56.976281,
+            "latitude": 24.074457
+        },
+        {
+            "pokestop_id": "95c7b72186af4d21bac80b16f6204955.16",
+            "longitude": 56.944189,
+            "latitude": 24.080448
+        },
+        {
+            "pokestop_id": "dc0b81d579bb4b47b348be3ec06aa676.16",
+            "longitude": 56.930141,
+            "latitude": 24.069723
+        },
+        {
+            "pokestop_id": "d90e30bccbd048c69d765798b7b1f3ca.16",
+            "longitude": 56.93914,
+            "latitude": 24.078148
+        },
+        {
+            "pokestop_id": "ba7cd61bf4824c65bf689099666e24b0.16",
+            "longitude": 56.966387,
+            "latitude": 24.081578
+        },
+        {
+            "pokestop_id": "ff20d5de2c124a89866c31978462e6fd.16",
+            "longitude": 56.925761,
+            "latitude": 24.064326
+        },
+        {
+            "pokestop_id": "bee2ef63698949b4ba7546fbbdcb3229.16",
+            "longitude": 56.938944,
+            "latitude": 24.07817
+        },
+        {
+            "pokestop_id": "3688ecc0302f4eceb4a44700d8895f5e.16",
+            "longitude": 56.944007,
+            "latitude": 24.081229
+        },
+        {
+            "pokestop_id": "cc17d21cc4784565ba0999f26b697a17.16",
+            "longitude": 56.940424,
+            "latitude": 24.079381
+        },
+        {
+            "pokestop_id": "18a292c3250a40989c1e9c671b54ce88.16",
+            "longitude": 56.941009,
+            "latitude": 24.079774
+        },
+        {
+            "pokestop_id": "e1ffb9071c6f487aaa55f5b75b498fee.16",
+            "longitude": 56.946578,
+            "latitude": 23.909175
+        },
+        {
+            "pokestop_id": "34139e2be6fe4c4da89c01eccbdb637c.16",
+            "longitude": 56.933087,
+            "latitude": 24.073918
+        },
+        {
+            "pokestop_id": "b34d8bfe0d164799b140251ed3a8d2a9.16",
+            "longitude": 56.932586,
+            "latitude": 24.073605
+        },
+        {
+            "pokestop_id": "482aade5d66f41ad88893b7f2c742965.16",
+            "longitude": 56.952276,
+            "latitude": 24.084324
+        },
+        {
+            "pokestop_id": "8274c59e84644335bddd9e114c8bb200.16",
+            "longitude": 56.934224,
+            "latitude": 24.075379
+        },
+        {
+            "pokestop_id": "80dee3810cc94ed5b8688775b6648e06.16",
+            "longitude": 56.951396,
+            "latitude": 24.084356
+        },
+        {
+            "pokestop_id": "127c90e03cb9437f8c0a3006ddf126f2.16",
+            "longitude": 56.939935,
+            "latitude": 24.080019
+        },
+        {
+            "pokestop_id": "49eb047b843c43f1bc19068888ad89ac.11",
+            "longitude": 56.950185,
+            "latitude": 24.084488
+        },
+        {
+            "pokestop_id": "e05868e53b4d4936883d093800de211c.16",
+            "longitude": 56.931069,
+            "latitude": 24.073583
+        },
+        {
+            "pokestop_id": "d700781f2b4140be82f530233590e8b3.16",
+            "longitude": 56.944937,
+            "latitude": 24.083669
+        },
+        {
+            "pokestop_id": "15f7b37ebcee4b71ae8caf32f9b2e566.16",
+            "longitude": 56.932117,
+            "latitude": 24.075533
+        },
+        {
+            "pokestop_id": "b24435314f4549a694bdfc53acf94cfd.16",
+            "longitude": 56.949837,
+            "latitude": 24.086513
+        },
+        {
+            "pokestop_id": "e4a508a1349842b9a8413f004a9326eb.16",
+            "longitude": 56.948755,
+            "latitude": 24.086272
+        },
+        {
+            "pokestop_id": "c6adf8813c08418a8919423fc18f1919.16",
+            "longitude": 56.931768,
+            "latitude": 24.076555
+        },
+        {
+            "pokestop_id": "4c6d1188053c49248cb6df80c94b0f01.16",
+            "longitude": 56.918896,
+            "latitude": 24.058336
+        },
+        {
+            "pokestop_id": "12acc7695be54763ab9a0f416d5ecf78.16",
+            "longitude": 56.919191,
+            "latitude": 24.059336
+        },
+        {
+            "pokestop_id": "11e0d22bfeaa4767bc5d33a688735b27.16",
+            "longitude": 56.918315,
+            "latitude": 24.057615
+        },
+        {
+            "pokestop_id": "1fe7fd640e0d459688f5ceab75297d95.16",
+            "longitude": 56.933305,
+            "latitude": 24.079706
+        },
+        {
+            "pokestop_id": "9b132bd198cc4552a9d480dc7932f39c.16",
+            "longitude": 56.929904,
+            "latitude": 24.076908
+        },
+        {
+            "pokestop_id": "4fe0d632493e48bcbaa22817539adade.16",
+            "longitude": 56.928301,
+            "latitude": 24.075158
+        },
+        {
+            "pokestop_id": "1b7fa7f258014909b34a51dd4f835bf5.16",
+            "longitude": 56.919842,
+            "latitude": 24.063399
+        },
+        {
+            "pokestop_id": "aae1f866ec0943e1a3fb5b6dfecc7ed5.16",
+            "longitude": 56.918558,
+            "latitude": 24.061182
+        },
+        {
+            "pokestop_id": "d2e8ca32101543f28e4dba23da65a922.16",
+            "longitude": 56.918082,
+            "latitude": 24.061094
+        },
+        {
+            "pokestop_id": "78010be01f1c4677a494a5b95855729c.16",
+            "longitude": 56.949658,
+            "latitude": 24.090863
+        },
+        {
+            "pokestop_id": "f04a95ddeb9b4a748f72e97e41e0f4bd.16",
+            "longitude": 56.933434,
+            "latitude": 24.082346
+        },
+        {
+            "pokestop_id": "50346ff859934fa5bbfa000ee4a65dc5.16",
+            "longitude": 56.91701,
+            "latitude": 24.060083
+        },
+        {
+            "pokestop_id": "419cbdfe5b6147c6a6c97006316d1789.12",
+            "longitude": 56.94951,
+            "latitude": 24.091573
+        },
+        {
+            "pokestop_id": "045be64daf0545abbaf61ad1abc4f5dd.16",
+            "longitude": 56.932668,
+            "latitude": 24.082566
+        },
+        {
+            "pokestop_id": "b4b4d5ca44ec4be081cb620157977e97.16",
+            "longitude": 56.936679,
+            "latitude": 24.086217
+        },
+        {
+            "pokestop_id": "6840ce2456f04063a53574efcfc2b380.16",
+            "longitude": 56.938468,
+            "latitude": 24.08757
+        },
+        {
+            "pokestop_id": "82ace1d405ce4c958f9246ede8672b33.16",
+            "longitude": 56.9344,
+            "latitude": 24.085047
+        },
+        {
+            "pokestop_id": "0b2fd22f39aa47bc9c5eb61fc0455987.16",
+            "longitude": 56.917235,
+            "latitude": 24.063098
+        },
+        {
+            "pokestop_id": "9bed34a7044a404db553f2cce9841231.16",
+            "longitude": 56.91684,
+            "latitude": 24.062492
+        },
+        {
+            "pokestop_id": "876752e31f494a519d327f559cdb0215.16",
+            "longitude": 56.933056,
+            "latitude": 24.085177
+        },
+        {
+            "pokestop_id": "c7a97fbc7e6a4f9888fccb7b9bca51c3.16",
+            "longitude": 56.936547,
+            "latitude": 24.088213
+        },
+        {
+            "pokestop_id": "3ca5a814355e4c87ae160e539335e025.16",
+            "longitude": 56.943899,
+            "latitude": 24.092433
+        },
+        {
+            "pokestop_id": "c41e9da7fc5f4be699ac372c2135a781.16",
+            "longitude": 56.958923,
+            "latitude": 24.095205
+        },
+        {
+            "pokestop_id": "cb61b2b3eb8f4482a7176e16957f0fca.16",
+            "longitude": 56.962269,
+            "latitude": 24.094891
+        },
+        {
+            "pokestop_id": "62672f7501be4c5a894863ab45946be2.16",
+            "longitude": 56.937048,
+            "latitude": 24.08977
+        },
+        {
+            "pokestop_id": "97e1a05cfe044b8696cc270096503991.16",
+            "longitude": 56.970652,
+            "latitude": 24.092378
+        },
+        {
+            "pokestop_id": "e170f3bd46b74c48bdf936ec322b3036.12",
+            "longitude": 56.961684,
+            "latitude": 24.095592
+        },
+        {
+            "pokestop_id": "2c155cf635044e4f96a3f126c1dcffd2.16",
+            "longitude": 56.958197,
+            "latitude": 24.096185
+        },
+        {
+            "pokestop_id": "3b3b7f10ff604d438609cfb6110bce26.12",
+            "longitude": 56.961543,
+            "latitude": 24.09585
+        },
+        {
+            "pokestop_id": "a2d63cc4ce3e49ae8cb6b7428fffa129.16",
+            "longitude": 56.945428,
+            "latitude": 24.095259
+        },
+        {
+            "pokestop_id": "1a6e3922ae1d4608a43cf6558b3cb0ce.16",
+            "longitude": 56.963008,
+            "latitude": 24.096248
+        },
+        {
+            "pokestop_id": "93b62734693f4503be55143cd6e58e13.16",
+            "longitude": 56.943763,
+            "latitude": 24.094715
+        },
+        {
+            "pokestop_id": "65caba1c187e4706857ea312576fb13c.16",
+            "longitude": 56.957217,
+            "latitude": 24.097327
+        },
+        {
+            "pokestop_id": "c1348fe49d474526b85441f695beff65.16",
+            "longitude": 56.945602,
+            "latitude": 24.095689
+        },
+        {
+            "pokestop_id": "270c42a22d504e72a5336081e00275fd.16",
+            "longitude": 56.97002,
+            "latitude": 24.094141
+        },
+        {
+            "pokestop_id": "62d4e555eda04051b4ddd38aa45365a9.16",
+            "longitude": 56.940309,
+            "latitude": 24.093508
+        },
+        {
+            "pokestop_id": "9d8dfc0bfd244b53b239ae334def1da2.16",
+            "longitude": 56.961954,
+            "latitude": 24.097121
+        },
+        {
+            "pokestop_id": "735097e4c244415cac053993c2284e95.16",
+            "longitude": 56.973926,
+            "latitude": 24.09238
+        },
+        {
+            "pokestop_id": "419af6b42ca740b79b7f120334660fc1.16",
+            "longitude": 56.930382,
+            "latitude": 24.086625
+        },
+        {
+            "pokestop_id": "c579fb2be48b4babbbf080d05c2589fa.16",
+            "longitude": 56.938533,
+            "latitude": 24.092935
+        },
+        {
+            "pokestop_id": "d8b9475ee91548e48a5d248bf5350411.16",
+            "longitude": 56.960592,
+            "latitude": 24.097646
+        },
+        {
+            "pokestop_id": "8e3e9cae3e8f4ecbbaaf6fcb7dd408f9.16",
+            "longitude": 56.940006,
+            "latitude": 24.093966
+        },
+        {
+            "pokestop_id": "46bb2c1918634504a299311703f2a1b4.16",
+            "longitude": 56.961827,
+            "latitude": 24.097998
+        },
+        {
+            "pokestop_id": "d7bc095c5522483db4ec3a324b4e13f4.16",
+            "longitude": 56.963704,
+            "latitude": 24.097718
+        },
+        {
+            "pokestop_id": "7a5d2810a89742569e4daac2f3aec008.16",
+            "longitude": 56.963047,
+            "latitude": 24.097891
+        },
+        {
+            "pokestop_id": "d8c0c961c5f8421f8c80f2120ff4b5ad.16",
+            "longitude": 56.944392,
+            "latitude": 24.096562
+        },
+        {
+            "pokestop_id": "427bf57fae794129aee23dce454eef81.16",
+            "longitude": 56.962858,
+            "latitude": 24.097966
+        },
+        {
+            "pokestop_id": "c5f75fc8168d4f0980fff7c67af8d04f.16",
+            "longitude": 56.963998,
+            "latitude": 24.097729
+        },
+        {
+            "pokestop_id": "a752f60818b84629a8c57179612f8d91.16",
+            "longitude": 56.932205,
+            "latitude": 24.089281
+        },
+        {
+            "pokestop_id": "5f64deedb3cd4b00b15af925aefb8b35.16",
+            "longitude": 56.96463,
+            "latitude": 24.097652
+        },
+        {
+            "pokestop_id": "aa900454c64d4555a5c463676cc546a2.16",
+            "longitude": 56.96444,
+            "latitude": 24.097719
+        },
+        {
+            "pokestop_id": "19a1a4ce10534560b3d7ed94949b006a.16",
+            "longitude": 56.961331,
+            "latitude": 24.098533
+        },
+        {
+            "pokestop_id": "41c5ef8d08564af48a6a34deac0713a9.16",
+            "longitude": 56.931162,
+            "latitude": 24.088604
+        },
+        {
+            "pokestop_id": "5759058c997344749d0917722c5d0669.16",
+            "longitude": 56.960512,
+            "latitude": 24.098734
+        },
+        {
+            "pokestop_id": "337b3a10e7a44cf69adf42ccab4cc5ab.16",
+            "longitude": 56.954771,
+            "latitude": 24.099109
+        },
+        {
+            "pokestop_id": "80513f20102546ca951866802d217a88.16",
+            "longitude": 56.965599,
+            "latitude": 24.097629
+        },
+        {
+            "pokestop_id": "65859675c2034f66be47a20a48fc41b1.16",
+            "longitude": 56.95807,
+            "latitude": 24.09912
+        },
+        {
+            "pokestop_id": "51d198fa1b644d14bd935ce05c3483d8.16",
+            "longitude": 56.943884,
+            "latitude": 24.096873
+        },
+        {
+            "pokestop_id": "26f9e71c5e3542f38cfa4f9a440a12dc.16",
+            "longitude": 56.965807,
+            "latitude": 24.09763
+        },
+        {
+            "pokestop_id": "e7ab8a9d44f94b5992921640cf8a4e4c.16",
+            "longitude": 56.959418,
+            "latitude": 24.099092
+        },
+        {
+            "pokestop_id": "be0d86505a114dfabd1c1607342dfc76.16",
+            "longitude": 56.966361,
+            "latitude": 24.097603
+        },
+        {
+            "pokestop_id": "80334f4cec6b44a69079f46c78cfc961.16",
+            "longitude": 56.957923,
+            "latitude": 24.099355
+        },
+        {
+            "pokestop_id": "fd09546b74764005beaf73d353277e8e.16",
+            "longitude": 56.95823,
+            "latitude": 24.099352
+        },
+        {
+            "pokestop_id": "23069e2edb5440b8baec775df007a1c4.16",
+            "longitude": 56.955603,
+            "latitude": 24.099476
+        },
+        {
+            "pokestop_id": "ee780d91306942bbaa324edd77b0abfe.16",
+            "longitude": 56.941981,
+            "latitude": 24.096328
+        },
+        {
+            "pokestop_id": "9b95ba735d3147cbb5199bdaabab69b4.16",
+            "longitude": 56.952929,
+            "latitude": 24.099373
+        },
+        {
+            "pokestop_id": "1bcb367483fc4efcb30853ca419a8f08.16",
+            "longitude": 56.961015,
+            "latitude": 24.09911
+        },
+        {
+            "pokestop_id": "ad25f6a905be47baac15d0e01c130059.16",
+            "longitude": 56.966927,
+            "latitude": 24.097639
+        },
+        {
+            "pokestop_id": "ebd0b955920d4170bab610cb1e235ae0.12",
+            "longitude": 56.932027,
+            "latitude": 24.090035
+        },
+        {
+            "pokestop_id": "1e2855f024114779b331b23b16544fa8.16",
+            "longitude": 56.967387,
+            "latitude": 24.097638
+        },
+        {
+            "pokestop_id": "12e8bafbd58c454596625f31c7f01125.16",
+            "longitude": 56.967701,
+            "latitude": 24.097559
+        },
+        {
+            "pokestop_id": "8c38744196154db5831d5a8f8af33959.16",
+            "longitude": 56.961711,
+            "latitude": 24.099305
+        },
+        {
+            "pokestop_id": "336a19aeabf2495b9f4a4c60b2888e86.16",
+            "longitude": 56.953024,
+            "latitude": 24.099811
+        },
+        {
+            "pokestop_id": "55a5f72e5627422991c618fc4bcb18be.16",
+            "longitude": 56.918689,
+            "latitude": 24.074526
+        },
+        {
+            "pokestop_id": "2a49640174944052b5aca93f47b21db3.16",
+            "longitude": 56.959254,
+            "latitude": 24.099835
+        },
+        {
+            "pokestop_id": "3b5ee393048b40a7941cf269d4226f3d.16",
+            "longitude": 56.928462,
+            "latitude": 24.08716
+        },
+        {
+            "pokestop_id": "35e7f09358044d2c91f6d2afa65b669e.16",
+            "longitude": 56.96217,
+            "latitude": 24.099643
+        },
+        {
+            "pokestop_id": "05a78134419b4a1c9ee307347e21d962.16",
+            "longitude": 56.931812,
+            "latitude": 24.090515
+        },
+        {
+            "pokestop_id": "f832a9f4b8cc4f05a262aa3690d72126.12",
+            "longitude": 56.962573,
+            "latitude": 24.099584
+        },
+        {
+            "pokestop_id": "169aa4dc485d4787ab5ea907ee411f07.16",
+            "longitude": 56.955227,
+            "latitude": 24.100379
+        },
+        {
+            "pokestop_id": "c3fb65f952624d69867c98213f72a461.16",
+            "longitude": 56.960999,
+            "latitude": 24.099991
+        },
+        {
+            "pokestop_id": "1ef7f867c5154de09952fae8c12f3c4b.16",
+            "longitude": 56.958933,
+            "latitude": 24.100292
+        },
+        {
+            "pokestop_id": "ed6e05c0aae143849086ffe446bfb0f3.16",
+            "longitude": 56.96963,
+            "latitude": 24.097558
+        },
+        {
+            "pokestop_id": "f31810681ba54d6eb5a48430b60e60e4.16",
+            "longitude": 56.960282,
+            "latitude": 24.10033
+        },
+        {
+            "pokestop_id": "43ebd3941ec74485acdbb8436b2ede6f.16",
+            "longitude": 56.958166,
+            "latitude": 24.100562
+        },
+        {
+            "pokestop_id": "36623a975b7645298a9a50dd34b91a16.12",
+            "longitude": 56.949772,
+            "latitude": 24.100088
+        },
+        {
+            "pokestop_id": "44dbf666564d4bccbf837afd802ffec8.12",
+            "longitude": 56.951727,
+            "latitude": 24.100447
+        },
+        {
+            "pokestop_id": "285c54458e5b42fb89cbbdacb7abeb3c.16",
+            "longitude": 56.969452,
+            "latitude": 24.097729
+        },
+        {
+            "pokestop_id": "f2be28ea4c6043819bf63322b33c3a33.11",
+            "longitude": 56.96487,
+            "latitude": 24.099424
+        },
+        {
+            "pokestop_id": "2e166601b94a475bb5e26bfb83b93516.16",
+            "longitude": 56.95092,
+            "latitude": 24.100363
+        },
+        {
+            "pokestop_id": "ae0960c54eb44b619a42b4bef8f5db2b.16",
+            "longitude": 56.957237,
+            "latitude": 24.100786
+        },
+        {
+            "pokestop_id": "76ca04a4a8044ce089d232e1935582ab.16",
+            "longitude": 56.964264,
+            "latitude": 24.099712
+        },
+        {
+            "pokestop_id": "361cc5a492ea4eafbfdafd28b632c036.16",
+            "longitude": 56.963809,
+            "latitude": 24.099852
+        },
+        {
+            "pokestop_id": "4454c24997c441d793e4240191c4b9c8.11",
+            "longitude": 56.968724,
+            "latitude": 24.098252
+        },
+        {
+            "pokestop_id": "65bac0dc1b6e4f0a86b5632448a5de65.16",
+            "longitude": 56.942978,
+            "latitude": 24.098257
+        },
+        {
+            "pokestop_id": "dd8ba2477f50409eaf1c25c72d38891c.16",
+            "longitude": 56.955003,
+            "latitude": 24.100977
+        },
+        {
+            "pokestop_id": "3f3fc171474649ef95d836b4d300ff5d.16",
+            "longitude": 56.961404,
+            "latitude": 24.100502
+        },
+        {
+            "pokestop_id": "eda14902636b4ec4b1ced0aee2e10d0d.12",
+            "longitude": 56.950144,
+            "latitude": 24.100544
+        },
+        {
+            "pokestop_id": "f1ab734392fb4894aa72a3ffaf5ea622.16",
+            "longitude": 56.970361,
+            "latitude": 24.097735
+        },
+        {
+            "pokestop_id": "54384184e20b40b5a597f93a721611d6.16",
+            "longitude": 56.939672,
+            "latitude": 24.096993
+        },
+        {
+            "pokestop_id": "dc4022e624a94618bdcb69a2a3332e58.16",
+            "longitude": 56.956007,
+            "latitude": 24.101288
+        },
+        {
+            "pokestop_id": "c672f150d3fd408db0d73bc83f4d6526.16",
+            "longitude": 56.962492,
+            "latitude": 24.100675
+        },
+        {
+            "pokestop_id": "44c30a0c281b42d6871f868b9b7166d7.11",
+            "longitude": 56.966713,
+            "latitude": 24.099498
+        },
+        {
+            "pokestop_id": "36d99e11ba70434c8917fd555e2ba611.12",
+            "longitude": 56.951724,
+            "latitude": 24.101182
+        },
+        {
+            "pokestop_id": "14966cbecac44bd5bd60a1a36d5ff680.16",
+            "longitude": 56.924535,
+            "latitude": 24.084524
+        },
+        {
+            "pokestop_id": "daff5ea211c8473a8fb390f28194e746.16",
+            "longitude": 56.954532,
+            "latitude": 24.101775
+        },
+        {
+            "pokestop_id": "17a44df2313e4f39a202b88f562d5c2d.16",
+            "longitude": 56.952993,
+            "latitude": 24.101752
+        },
+        {
+            "pokestop_id": "59f6ab1665e348e6b7b0f55641bbd51a.16",
+            "longitude": 56.967213,
+            "latitude": 24.100009
+        },
+        {
+            "pokestop_id": "b5b3351cdc984307964d7cd341cec2c7.16",
+            "longitude": 56.959925,
+            "latitude": 24.101806
+        },
+        {
+            "pokestop_id": "7cc42b0306414fb88c05771d531f9956.16",
+            "longitude": 56.949811,
+            "latitude": 24.101522
+        },
+        {
+            "pokestop_id": "ed08cd937d7e4eb0bed573a621888780.16",
+            "longitude": 56.924497,
+            "latitude": 24.085327
+        },
+        {
+            "pokestop_id": "6b7bd6ea61634459ad32fe9b8f889cc6.16",
+            "longitude": 56.963122,
+            "latitude": 24.10145
+        },
+        {
+            "pokestop_id": "7a835359f4574bd4bbfbb760611d3f33.16",
+            "longitude": 56.962208,
+            "latitude": 24.101652
+        },
+        {
+            "pokestop_id": "3123c8594753480facc2bd13e691998e.16",
+            "longitude": 56.950357,
+            "latitude": 24.101861
+        },
+        {
+            "pokestop_id": "8ede611df6134a7cb762b613775d4c68.16",
+            "longitude": 56.960322,
+            "latitude": 24.102193
+        },
+        {
+            "pokestop_id": "f6819e42d866477c8c8f8ba0b5434bf1.16",
+            "longitude": 56.958996,
+            "latitude": 24.102371
+        },
+        {
+            "pokestop_id": "ab74930729724fa39bfaa2073c06f18f.16",
+            "longitude": 56.961065,
+            "latitude": 24.102136
+        },
+        {
+            "pokestop_id": "2da429e062f14de7843b2b45deb0580e.16",
+            "longitude": 56.960632,
+            "latitude": 24.102208
+        },
+        {
+            "pokestop_id": "463b0ea549cf41459fc599df23131cc2.16",
+            "longitude": 56.953604,
+            "latitude": 24.102535
+        },
+        {
+            "pokestop_id": "ee82ec1d3d5c4f54a31a82cc1a695016.16",
+            "longitude": 56.910413,
+            "latitude": 24.062617
+        },
+        {
+            "pokestop_id": "4b20ebb098054b1084a1ae925cdb6d5a.16",
+            "longitude": 56.952568,
+            "latitude": 24.102563
+        },
+        {
+            "pokestop_id": "bef45304e5ec4a54a0b83702d54a7ab5.16",
+            "longitude": 56.921533,
+            "latitude": 24.082268
+        },
+        {
+            "pokestop_id": "b03a6b5c7bfe45e1a31ee3aca2b5d2de.16",
+            "longitude": 56.951858,
+            "latitude": 24.10252
+        },
+        {
+            "pokestop_id": "615b50b06d5143fe962e55a3d4c42b5c.16",
+            "longitude": 56.962352,
+            "latitude": 24.102122
+        },
+        {
+            "pokestop_id": "e936482dca304bcd884b615a3370da9f.16",
+            "longitude": 56.939712,
+            "latitude": 24.098592
+        },
+        {
+            "pokestop_id": "1f039537ae1d4f9ebd6047a943e98a8e.16",
+            "longitude": 56.95334,
+            "latitude": 24.102721
+        },
+        {
+            "pokestop_id": "8f777394850a48c1ab1031d65c29d04d.16",
+            "longitude": 56.95728,
+            "latitude": 24.102809
+        },
+        {
+            "pokestop_id": "061f1ba760004e7a99cbe4451b08e9c7.16",
+            "longitude": 56.950023,
+            "latitude": 24.102313
+        },
+        {
+            "pokestop_id": "a7314081794442e98b185859dcc8c695.16",
+            "longitude": 56.956452,
+            "latitude": 24.102992
+        },
+        {
+            "pokestop_id": "4adf6a44b3084b8182b2ffb11fa4e75e.16",
+            "longitude": 56.959332,
+            "latitude": 24.102816
+        },
+        {
+            "pokestop_id": "e6010a70fa0046da91b52de0655d3893.16",
+            "longitude": 56.961294,
+            "latitude": 24.102586
+        },
+        {
+            "pokestop_id": "0806b2489a2d4bd49265cc77158a4ce1.16",
+            "longitude": 56.924446,
+            "latitude": 24.086318
+        },
+        {
+            "pokestop_id": "df300d1c95704a68aa2f16aba97ac049.16",
+            "longitude": 56.950844,
+            "latitude": 24.1028
+        },
+        {
+            "pokestop_id": "abfeead39f5849969e923b8bcc96c66c.16",
+            "longitude": 56.925627,
+            "latitude": 24.087811
+        },
+        {
+            "pokestop_id": "6cc2fd520d2648428e33559cb1ef5166.16",
+            "longitude": 56.958873,
+            "latitude": 24.103187
+        },
+        {
+            "pokestop_id": "dd157d68adff4b5f9e116b3dc4e01d2e.16",
+            "longitude": 56.96128,
+            "latitude": 24.102952
+        },
+        {
+            "pokestop_id": "24fc8567b4374efe9c8637847848724c.16",
+            "longitude": 56.959795,
+            "latitude": 24.103226
+        },
+        {
+            "pokestop_id": "a9b4bb5427e043a6ac5f2165d4ec86de.16",
+            "longitude": 56.954283,
+            "latitude": 24.103444
+        },
+        {
+            "pokestop_id": "e7425915654e4611906fa01653b5755e.16",
+            "longitude": 56.956164,
+            "latitude": 24.103566
+        },
+        {
+            "pokestop_id": "9fa64acd558f40899365367e8dcd23b4.16",
+            "longitude": 56.949236,
+            "latitude": 24.102922
+        },
+        {
+            "pokestop_id": "c3b661a365664cfe8b1b579d372b0ccd.12",
+            "longitude": 56.951797,
+            "latitude": 24.103371
+        },
+        {
+            "pokestop_id": "80a5a5db036c4b6ba220e453216ed20b.12",
+            "longitude": 56.955026,
+            "latitude": 24.103633
+        },
+        {
+            "pokestop_id": "3fca8953446c4f0fac34f5938562c8fc.16",
+            "longitude": 56.960497,
+            "latitude": 24.10335
+        },
+        {
+            "pokestop_id": "d1131418fb514549880c52eb8a0ae70d.16",
+            "longitude": 56.964948,
+            "latitude": 24.102411
+        },
+        {
+            "pokestop_id": "dde81a47cac64517a9d2713f3dc920a2.16",
+            "longitude": 56.950826,
+            "latitude": 24.103316
+        },
+        {
+            "pokestop_id": "6079c406d8da4d139287394802ea87b5.16",
+            "longitude": 56.9497,
+            "latitude": 24.103189
+        },
+        {
+            "pokestop_id": "f9103e539af9474b89a40fa00b5d9d85.16",
+            "longitude": 56.965802,
+            "latitude": 24.102247
+        },
+        {
+            "pokestop_id": "8c21a2b0d34344369b0d4afce48ed579.16",
+            "longitude": 56.969912,
+            "latitude": 24.100747
+        },
+        {
+            "pokestop_id": "1b905ae901de4befbc240d62ea0c668d.16",
+            "longitude": 56.954034,
+            "latitude": 24.103809
+        },
+        {
+            "pokestop_id": "ea8fe0fc3dbd4f64a7d82c0901348b17.16",
+            "longitude": 56.928034,
+            "latitude": 24.091037
+        },
+        {
+            "pokestop_id": "392fcadb1e0a4311a86fb6b449872e1e.16",
+            "longitude": 56.962621,
+            "latitude": 24.103251
+        },
+        {
+            "pokestop_id": "90289dc9b86141f9bdf94cd0496b9892.16",
+            "longitude": 56.950447,
+            "latitude": 24.103513
+        },
+        {
+            "pokestop_id": "ae9bf2c649934594a4dd19887528c11e.16",
+            "longitude": 56.966075,
+            "latitude": 24.102387
+        },
+        {
+            "pokestop_id": "0a35aff881aa450b996c120a6e1cde1d.11",
+            "longitude": 56.958443,
+            "latitude": 24.103984
+        },
+        {
+            "pokestop_id": "a732a9b689ff40d7b972dee7ca563cae.16",
+            "longitude": 56.958801,
+            "latitude": 24.10404
+        },
+        {
+            "pokestop_id": "b047d85df2134cc49d7035dcee28aee6.16",
+            "longitude": 56.956807,
+            "latitude": 24.10416
+        },
+        {
+            "pokestop_id": "c5b491109c814ad9acc514afb8f67386.16",
+            "longitude": 56.955102,
+            "latitude": 24.104181
+        },
+        {
+            "pokestop_id": "e317be1f636a443da388112f4216286c.12",
+            "longitude": 56.939564,
+            "latitude": 24.100083
+        },
+        {
+            "pokestop_id": "a52945cc11414ce88f4fe3a92e2059bf.12",
+            "longitude": 56.955825,
+            "latitude": 24.104299
+        },
+        {
+            "pokestop_id": "e3b064c86a85449aacd6dedfb5e6b340.16",
+            "longitude": 56.946899,
+            "latitude": 24.103101
+        },
+        {
+            "pokestop_id": "5ab9041f463545cfb4d581781f947cb2.16",
+            "longitude": 56.948031,
+            "latitude": 24.103449
+        },
+        {
+            "pokestop_id": "779b5fde5b594c95aedde1c9eab21d05.16",
+            "longitude": 56.954981,
+            "latitude": 24.104409
+        },
+        {
+            "pokestop_id": "96175ae8278f42d3ae5cb4a32b8e19f4.16",
+            "longitude": 56.950727,
+            "latitude": 24.104115
+        },
+        {
+            "pokestop_id": "bb681fbdfa504d98b3d7c55618d7e5fe.12",
+            "longitude": 56.948825,
+            "latitude": 24.103757
+        },
+        {
+            "pokestop_id": "95abc0438fb14661bbdb89fa703c9a68.12",
+            "longitude": 56.951662,
+            "latitude": 24.104294
+        },
+        {
+            "pokestop_id": "1d42310486014bd487dae81f8d0944c4.16",
+            "longitude": 56.950411,
+            "latitude": 24.104187
+        },
+        {
+            "pokestop_id": "779037544cd447a0b8bb42e2d5d251b8.16",
+            "longitude": 56.95336,
+            "latitude": 24.104673
+        },
+        {
+            "pokestop_id": "cc29ae78be444f36a6c47ce1e73f1d93.16",
+            "longitude": 56.956852,
+            "latitude": 24.10487
+        },
+        {
+            "pokestop_id": "e76754107615426d9f0bface48f9ea25.16",
+            "longitude": 56.964178,
+            "latitude": 24.103866
+        },
+        {
+            "pokestop_id": "6d5de380821e49e09116120e8d519d0d.16",
+            "longitude": 56.948486,
+            "latitude": 24.10412
+        },
+        {
+            "pokestop_id": "5454669add3a43a4bcc4eef1ecd9db07.16",
+            "longitude": 56.92427,
+            "latitude": 24.088363
+        },
+        {
+            "pokestop_id": "29d0399f3909465d9836301df096db32.12",
+            "longitude": 56.955942,
+            "latitude": 24.105423
+        },
+        {
+            "pokestop_id": "9740f813e22341c0aa6bb39f9a7af356.16",
+            "longitude": 56.970456,
+            "latitude": 24.102125
+        },
+        {
+            "pokestop_id": "da279578adcf4c678b0ee9fa5162f32e.16",
+            "longitude": 56.95798,
+            "latitude": 24.10539
+        },
+        {
+            "pokestop_id": "a6fe7c83717e4cb3a7f99eb3151d607b.16",
+            "longitude": 56.952298,
+            "latitude": 24.10528
+        },
+        {
+            "pokestop_id": "6ae5135d35e4438ebf18f7f5d14d1de0.16",
+            "longitude": 56.94795,
+            "latitude": 24.104552
+        },
+        {
+            "pokestop_id": "63962af4c7df4e9aa4c73450a98a86b8.16",
+            "longitude": 56.9651,
+            "latitude": 24.104219
+        },
+        {
+            "pokestop_id": "9945f0609f5545d0835a2a616d090f07.16",
+            "longitude": 56.959878,
+            "latitude": 24.105441
+        },
+        {
+            "pokestop_id": "ce9d073a0666403397d42776a5179bac.16",
+            "longitude": 56.9242,
+            "latitude": 24.089103
+        },
+        {
+            "pokestop_id": "14d8d9dd2f044eb898d1920731626d40.16",
+            "longitude": 56.960304,
+            "latitude": 24.10544
+        },
+        {
+            "pokestop_id": "8d406912e3914bb1a6b1bfbb9779e20d.16",
+            "longitude": 56.951335,
+            "latitude": 24.105433
+        },
+        {
+            "pokestop_id": "2df81f95cdf542eb994b225baee10c7c.16",
+            "longitude": 56.920714,
+            "latitude": 24.084982
+        },
+        {
+            "pokestop_id": "ba8da1eda17d413ca15c8c4632df6142.16",
+            "longitude": 56.934087,
+            "latitude": 24.098366
+        },
+        {
+            "pokestop_id": "19a03cdb514b4f7598dc6dd174095f08.16",
+            "longitude": 56.960709,
+            "latitude": 24.105535
+        },
+        {
+            "pokestop_id": "207b8c0c13164c128a65ef3a7a9e691e.16",
+            "longitude": 56.9349,
+            "latitude": 24.098998
+        },
+        {
+            "pokestop_id": "e6eb93804b1f465284bf8f94ba0740ba.16",
+            "longitude": 56.951677,
+            "latitude": 24.105708
+        },
+        {
+            "pokestop_id": "376ab0414e5f4277abec93ecce3e1153.16",
+            "longitude": 56.954105,
+            "latitude": 24.105998
+        },
+        {
+            "pokestop_id": "20d239f6eb1346ada81ba0b604d638bc.12",
+            "longitude": 56.948446,
+            "latitude": 24.105255
+        },
+        {
+            "pokestop_id": "4dc07814c26c4e5ca1d8b6dbb6dd6924.16",
+            "longitude": 56.959935,
+            "latitude": 24.105892
+        },
+        {
+            "pokestop_id": "b1c39620167c4163bfc64666056c73a1.16",
+            "longitude": 56.95282,
+            "latitude": 24.106045
+        },
+        {
+            "pokestop_id": "eb1156d1ba824c7fbfc1893d55bdb6e9.12",
+            "longitude": 56.949811,
+            "latitude": 24.105632
+        },
+        {
+            "pokestop_id": "a2fcbedca08f48b3a84429405ea76833.16",
+            "longitude": 56.954919,
+            "latitude": 24.10619
+        },
+        {
+            "pokestop_id": "40de8b3921144e3ab2790e71073ecc17.16",
+            "longitude": 56.947937,
+            "latitude": 24.105324
+        },
+        {
+            "pokestop_id": "19afa873e05f41fb92ca189b5dc7d0c9.12",
+            "longitude": 56.962198,
+            "latitude": 24.105721
+        },
+        {
+            "pokestop_id": "821648ae3e4f4576aeec213bd39b8ecf.16",
+            "longitude": 56.967765,
+            "latitude": 24.104175
+        },
+        {
+            "pokestop_id": "141e4f9e3a2d47e9900988ec21b8765e.16",
+            "longitude": 56.950162,
+            "latitude": 24.105867
+        },
+        {
+            "pokestop_id": "08d277da32d64c14b93c6805a0b543d8.16",
+            "longitude": 56.958514,
+            "latitude": 24.106287
+        },
+        {
+            "pokestop_id": "4bb892a166e042028d6d898c62407865.16",
+            "longitude": 56.948689,
+            "latitude": 24.105631
+        },
+        {
+            "pokestop_id": "16abd678032348d1a3a00243ed3541cf.16",
+            "longitude": 56.947079,
+            "latitude": 24.105269
+        },
+        {
+            "pokestop_id": "7390b9ed4c0b4d6d99e008bffd02ddc6.16",
+            "longitude": 56.967406,
+            "latitude": 24.104425
+        },
+        {
+            "pokestop_id": "2e731ea7cfb54d71afb4dcedcdb8019e.16",
+            "longitude": 56.962969,
+            "latitude": 24.105779
+        },
+        {
+            "pokestop_id": "31d965b03d2b4121935c3212ca2d77cd.16",
+            "longitude": 56.920552,
+            "latitude": 24.085638
+        },
+        {
+            "pokestop_id": "88b9244fe6ff466aa321dd1847c44f3a.16",
+            "longitude": 56.904977,
+            "latitude": 24.05547
+        },
+        {
+            "pokestop_id": "5865c84aedfe4662bfb12ac413be3336.16",
+            "longitude": 56.927698,
+            "latitude": 24.093775
+        },
+        {
+            "pokestop_id": "11c5f565daf64ba5b7538377f064a0d9.11",
+            "longitude": 56.951411,
+            "latitude": 24.106312
+        },
+        {
+            "pokestop_id": "6ed09c7083a9404a9986af838ed4026c.16",
+            "longitude": 56.952386,
+            "latitude": 24.106485
+        },
+        {
+            "pokestop_id": "51f524d4fdb1448780852c38aa264571.16",
+            "longitude": 56.972198,
+            "latitude": 24.102557
+        },
+        {
+            "pokestop_id": "74a1c6f3a4bf472b84a924596bfa0e3c.16",
+            "longitude": 56.957985,
+            "latitude": 24.106641
+        },
+        {
+            "pokestop_id": "ce75b14ac1ac422a86a3dacd6194dcd7.16",
+            "longitude": 56.95415,
+            "latitude": 24.106673
+        },
+        {
+            "pokestop_id": "1a7c84df08904362b80f976ad02bf52a.16",
+            "longitude": 56.958485,
+            "latitude": 24.106659
+        },
+        {
+            "pokestop_id": "42e3c114942d44988cfd45c4cfb3b5ec.16",
+            "longitude": 56.949638,
+            "latitude": 24.106268
+        },
+        {
+            "pokestop_id": "c85f85a12dd84d94941f1f6acbf71217.16",
+            "longitude": 56.921714,
+            "latitude": 24.087533
+        },
+        {
+            "pokestop_id": "057cef426b7f4edfb26e5d958b30b4d5.16",
+            "longitude": 56.967298,
+            "latitude": 24.104948
+        },
+        {
+            "pokestop_id": "661784d2c40c466ab947feeb7abb5d4c.16",
+            "longitude": 56.961685,
+            "latitude": 24.106471
+        },
+        {
+            "pokestop_id": "0e282b794c2f4790a9d225befb4fc96d.16",
+            "longitude": 56.950376,
+            "latitude": 24.10655
+        },
+        {
+            "pokestop_id": "0da8fd470d3d41a5a9df6860876d1661.12",
+            "longitude": 56.946813,
+            "latitude": 24.105798
+        },
+        {
+            "pokestop_id": "4e48399806b94445bd9ad11f91dcb76d.12",
+            "longitude": 56.955886,
+            "latitude": 24.107102
+        },
+        {
+            "pokestop_id": "fa853964b4fa49d5bef3b940f9c06532.16",
+            "longitude": 56.949133,
+            "latitude": 24.106473
+        },
+        {
+            "pokestop_id": "417aae7b5aeb413cb71c3734a7f1ddb5.16",
+            "longitude": 56.965011,
+            "latitude": 24.106028
+        },
+        {
+            "pokestop_id": "666f2453dbd5416a87e0d179201594e9.16",
+            "longitude": 56.928792,
+            "latitude": 24.09564
+        },
+        {
+            "pokestop_id": "0b5be7e954264775882936ba34e0edcc.12",
+            "longitude": 56.948348,
+            "latitude": 24.106536
+        },
+        {
+            "pokestop_id": "6a34a855f31b42c993a7c376d2c0bbda.16",
+            "longitude": 56.962385,
+            "latitude": 24.106841
+        },
+        {
+            "pokestop_id": "74fc62155aec4917af14be64880136f9.12",
+            "longitude": 56.959039,
+            "latitude": 24.107343
+        },
+        {
+            "pokestop_id": "d064c06ff5f741ec9e6f2244110adf08.16",
+            "longitude": 56.948809,
+            "latitude": 24.106769
+        },
+        {
+            "pokestop_id": "a8e9e42b2d634a639795f8b1ec084b4e.12",
+            "longitude": 56.951449,
+            "latitude": 24.10726
+        },
+        {
+            "pokestop_id": "a8e1508810754913a9a6bec7bfe36ce4.16",
+            "longitude": 56.957119,
+            "latitude": 24.107625
+        },
+        {
+            "pokestop_id": "d2658aaff6ae4047800d31add9ad6db7.16",
+            "longitude": 56.954496,
+            "latitude": 24.107644
+        },
+        {
+            "pokestop_id": "4624849b7fe34c09b869a878c623ec01.16",
+            "longitude": 56.95838,
+            "latitude": 24.107732
+        },
+        {
+            "pokestop_id": "4ab4dd387ccd46e59ca1972b3972e7c4.16",
+            "longitude": 56.961499,
+            "latitude": 24.107384
+        },
+        {
+            "pokestop_id": "dbe107cb60ba43d1a745be6a23ce5bbc.12",
+            "longitude": 56.947207,
+            "latitude": 24.10684
+        },
+        {
+            "pokestop_id": "61c9fa9fb33c4f9093a5474e617bcbea.16",
+            "longitude": 56.920265,
+            "latitude": 24.087028
+        },
+        {
+            "pokestop_id": "63f1d82b3a3b46bdab2d692c3cd2dc97.16",
+            "longitude": 56.956818,
+            "latitude": 24.10808
+        },
+        {
+            "pokestop_id": "2d084abf007e49b0a8d7265122970eea.12",
+            "longitude": 56.954096,
+            "latitude": 24.108092
+        },
+        {
+            "pokestop_id": "1a689f5d6c7842fa99bed4d1848e5cde.12",
+            "longitude": 56.959531,
+            "latitude": 24.107995
+        },
+        {
+            "pokestop_id": "1d7e5febf8fe4b25803813750e675da6.16",
+            "longitude": 56.94571,
+            "latitude": 24.106667
+        },
+        {
+            "pokestop_id": "96a5e028e46c4510ab82206fe066a1aa.16",
+            "longitude": 56.952948,
+            "latitude": 24.108102
+        },
+        {
+            "pokestop_id": "ebc9fa0afcad4d608fc01666cb62f0b7.16",
+            "longitude": 56.960442,
+            "latitude": 24.107945
+        },
+        {
+            "pokestop_id": "2e0eb7626d5e4f8b99f6b36d7ebf00c9.16",
+            "longitude": 56.951408,
+            "latitude": 24.108
+        },
+        {
+            "pokestop_id": "02f6d21314ba4942a85f8709fd99aad4.12",
+            "longitude": 56.954983,
+            "latitude": 24.108333
+        },
+        {
+            "pokestop_id": "5c9a71a3528b44588f6f9e7dd50c2a0a.16",
+            "longitude": 56.949549,
+            "latitude": 24.107784
+        },
+        {
+            "pokestop_id": "a6662f37393444d4945d0c8adcccb2a8.16",
+            "longitude": 56.920165,
+            "latitude": 24.087548
+        },
+        {
+            "pokestop_id": "3681bd979ad84aedab5afb53ef9883b7.12",
+            "longitude": 56.953453,
+            "latitude": 24.108734
+        },
+        {
+            "pokestop_id": "d689fa0fa2ac47f0928de78c76843b4d.16",
+            "longitude": 56.971971,
+            "latitude": 24.104903
+        },
+        {
+            "pokestop_id": "4c2bca94a11a49f599f8d953c3ceca51.12",
+            "longitude": 56.950083,
+            "latitude": 24.108403
+        },
+        {
+            "pokestop_id": "4fa389d7dfb44e6fafdba6a590abbba4.12",
+            "longitude": 56.949493,
+            "latitude": 24.108356
+        },
+        {
+            "pokestop_id": "46d8596825a442e59ba8dd5902f543c8.16",
+            "longitude": 56.97204,
+            "latitude": 23.886669
+        },
+        {
+            "pokestop_id": "a453523cd6c44ef79148a28e419a945d.12",
+            "longitude": 56.946624,
+            "latitude": 24.107716
+        },
+        {
+            "pokestop_id": "365bd0f1e2ab41f6a0c506a3b5609e47.16",
+            "longitude": 56.957237,
+            "latitude": 24.109007
+        },
+        {
+            "pokestop_id": "7c4d3cc952fa4bc8adc49baca011f09d.16",
+            "longitude": 56.951091,
+            "latitude": 24.108707
+        },
+        {
+            "pokestop_id": "5997a7a1ef984b5095a34ba90b454322.16",
+            "longitude": 56.961238,
+            "latitude": 24.108696
+        },
+        {
+            "pokestop_id": "c9018d43fe6445c8b7304153d0ca6d8d.16",
+            "longitude": 56.94701,
+            "latitude": 24.107986
+        },
+        {
+            "pokestop_id": "c9bace6ee7414b12bb64696dbf49f555.16",
+            "longitude": 56.954637,
+            "latitude": 24.109173
+        },
+        {
+            "pokestop_id": "d299e94b905c446eb161d2289693f1fe.16",
+            "longitude": 56.948475,
+            "latitude": 24.108416
+        },
+        {
+            "pokestop_id": "c11c3f1b1650480fb7b4316b365cf7ee.16",
+            "longitude": 56.944675,
+            "latitude": 24.107366
+        },
+        {
+            "pokestop_id": "7db66e402dda4366a4a216931c8cfabc.16",
+            "longitude": 56.953876,
+            "latitude": 24.109204
+        },
+        {
+            "pokestop_id": "8188eed76e3c4cd1b098d630d3455b1b.16",
+            "longitude": 56.955864,
+            "latitude": 24.109299
+        },
+        {
+            "pokestop_id": "a89f792c2f0e47b2ab24c822c24dfc0d.16",
+            "longitude": 56.949236,
+            "latitude": 24.1087
+        },
+        {
+            "pokestop_id": "25f12a646a4a4f8b849d3421318c497c.12",
+            "longitude": 56.959157,
+            "latitude": 24.10924
+        },
+        {
+            "pokestop_id": "914b37e9375643208d9739f2510cb114.16",
+            "longitude": 56.946843,
+            "latitude": 24.108243
+        },
+        {
+            "pokestop_id": "7932c654443f4602b0e6c3ee93c72966.16",
+            "longitude": 56.94976,
+            "latitude": 24.108911
+        },
+        {
+            "pokestop_id": "8a6eb586807945f494bf8a7b7a92fc81.11",
+            "longitude": 56.950553,
+            "latitude": 24.10907
+        },
+        {
+            "pokestop_id": "d245065d74624bb19e32fca31e552fd3.16",
+            "longitude": 56.954,
+            "latitude": 24.109491
+        },
+        {
+            "pokestop_id": "66a0c816f92d4b908fd86ffbfde20d4e.16",
+            "longitude": 56.958194,
+            "latitude": 24.109472
+        },
+        {
+            "pokestop_id": "868d32bfad3b454996dd0654ee87b9bc.11",
+            "longitude": 56.947741,
+            "latitude": 24.108569
+        },
+        {
+            "pokestop_id": "c4b14ee4d5f2470fadfd4a06324c8fce.16",
+            "longitude": 56.953219,
+            "latitude": 24.109479
+        },
+        {
+            "pokestop_id": "38cf5b17c8744a41b1bb531c665cbe94.16",
+            "longitude": 56.952256,
+            "latitude": 24.109415
+        },
+        {
+            "pokestop_id": "77a0d4b8adea4b3eba580b316de16f32.16",
+            "longitude": 56.945471,
+            "latitude": 24.108097
+        },
+        {
+            "pokestop_id": "3d5e9cafec594712962a7339c4823d32.12",
+            "longitude": 56.959152,
+            "latitude": 24.10965
+        },
+        {
+            "pokestop_id": "c2b294973e01455fbf691c02cbb21f9c.16",
+            "longitude": 56.94498,
+            "latitude": 24.108117
+        },
+        {
+            "pokestop_id": "1db5a56a62bc4151a1a28ef5383ffa22.16",
+            "longitude": 56.960393,
+            "latitude": 24.109595
+        },
+        {
+            "pokestop_id": "79558d8ccdcb440ca6fc35a46e49d306.16",
+            "longitude": 56.952683,
+            "latitude": 24.109762
+        },
+        {
+            "pokestop_id": "14cfee59734c4f67b795094fffea3f6d.16",
+            "longitude": 56.953847,
+            "latitude": 24.109854
+        },
+        {
+            "pokestop_id": "707767ddf12c4109986e71182e5c9073.12",
+            "longitude": 56.953002,
+            "latitude": 24.109803
+        },
+        {
+            "pokestop_id": "7e2d45c5d65a4dbba22d417d4eb21f4c.16",
+            "longitude": 56.946531,
+            "latitude": 24.108651
+        },
+        {
+            "pokestop_id": "4415fc65ddf04e92b6cde0a7c451d938.16",
+            "longitude": 56.961679,
+            "latitude": 24.109458
+        }
+    ],
+    "raids": [
+        {
+            "_id": "5a5b6d418d5a801dea4025b6",
+            "gym_id": "6456fd02469d458eb86efa1fe70f008a.16",
+            "raid_battle_ms": 1515943635443,
+            "raid_end_ms": 1515946335443,
+            "raid_level": 2,
+            "raid_boss_id": null,
+            "raid_boss_cp": null,
+            "raid_boss_move_1": null,
+            "raid_boss_move_2": null
+        }
+    ]
+}
