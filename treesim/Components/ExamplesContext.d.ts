@@ -6,6 +6,8 @@ export interface IAnimation {
 export interface IExamplesContext {
     animation: IAnimation;
     setAnimation: React.Dispatch<React.SetStateAction<IAnimation>>;
+    loadedUrl: string;
+    setLoadedUrl: React.Dispatch<React.SetStateAction<string>>;
     currentFrame: number;
     setCurrentFrame: React.Dispatch<React.SetStateAction<number>>;
     currentFrameRef: React.MutableRefObject<number>;
